@@ -1,0 +1,5135 @@
+Element H:
+    formula: H
+    number: 1
+    period: 1
+    group: 1
+    color: '#FFFFFF'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+    _valance_electrons: 1
+    _valance_configuration: 1s1
+    _ENMAX: 250
+    _is_recommended_potential: true
+
+Element H.25:
+    formula: H.25
+    number: 1
+    period: 1
+    group: 1
+    color: '#FFFFFF'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+    _valance_electrons: 0.25
+    _valance_configuration: 1s0.25
+    _ENMAX: 250
+    _is_recommended_potential: false
+
+Element H.33:
+    formula: H.33
+    number: 1
+    period: 1
+    group: 1
+    color: '#FFFFFF'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+    _valance_electrons: 0.33
+    _valance_configuration: 1s0.33
+    _ENMAX: 250
+    _is_recommended_potential: false
+
+Element H.42:
+    formula: H.42
+    number: 1
+    period: 1
+    group: 1
+    color: '#FFFFFF'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+    _valance_electrons: 0.42
+    _valance_configuration: 1s0.42
+    _ENMAX: 250
+    _is_recommended_potential: false
+
+Element H.5:
+    formula: H.5
+    number: 1
+    period: 1
+    group: 1
+    color: '#FFFFFF'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+    _valance_electrons: 0.5
+    _valance_configuration: 1s0.5
+    _ENMAX: 250
+    _is_recommended_potential: false
+
+Element H.58:
+    formula: H.58
+    number: 1
+    period: 1
+    group: 1
+    color: '#FFFFFF'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+    _valance_electrons: 0.58
+    _valance_configuration: 1s0.58
+    _ENMAX: 250
+    _is_recommended_potential: false
+
+Element H.66:
+    formula: H.66
+    number: 1
+    period: 1
+    group: 1
+    color: '#FFFFFF'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+    _valance_electrons: 0.66
+    _valance_configuration: 1s0.66
+    _ENMAX: 250
+    _is_recommended_potential: false
+
+Element H.75:
+    formula: H.75
+    number: 1
+    period: 1
+    group: 1
+    color: '#FFFFFF'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+    _valance_electrons: 0.75
+    _valance_configuration: 1s0.75
+    _ENMAX: 250
+    _is_recommended_potential: false
+
+Element H1.25:
+    formula: H1.25
+    number: 1
+    period: 1
+    group: 1
+    color: '#FFFFFF'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+    _valance_electrons: 1.25
+    _valance_configuration: 1s1.25
+    _ENMAX: 250
+    _is_recommended_potential: false
+
+Element H1.33:
+    formula: H1.33
+    number: 1
+    period: 1
+    group: 1
+    color: '#FFFFFF'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+    _valance_electrons: 1.33
+    _valance_configuration: 1s1.33
+    _ENMAX: 250
+    _is_recommended_potential: false
+
+Element H1.5:
+    formula: H1.5
+    number: 1
+    period: 1
+    group: 1
+    color: '#FFFFFF'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+    _valance_electrons: 1.5
+    _valance_configuration: 1s1.5
+    _ENMAX: 250
+    _is_recommended_potential: false
+
+Element H1.66:
+    formula: H1.66
+    number: 1
+    period: 1
+    group: 1
+    color: '#FFFFFF'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+    _valance_electrons: 1.66
+    _valance_configuration: 1s1.66
+    _ENMAX: 250
+    _is_recommended_potential: false
+
+Element H1.75:
+    formula: H1.75
+    number: 1
+    period: 1
+    group: 1
+    color: '#FFFFFF'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+    _valance_electrons: 1.75
+    _valance_configuration: 1s1.75
+    _ENMAX: 250
+    _is_recommended_potential: false
+
+Element H_AE:
+    formula: H_AE
+    number: 1
+    period: 1
+    group: 1
+    color: '#FFFFFF'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+    _valance_electrons: 1
+    _valance_configuration: 
+    _ENMAX: 1000
+    _is_recommended_potential: false
+
+Element H_h:
+    formula: H_h
+    number: 1
+    period: 1
+    group: 1
+    color: '#FFFFFF'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+    _valance_electrons: 1
+    _valance_configuration: 1s1
+    _ENMAX: 700
+    _is_recommended_potential: false
+
+Element H_s:
+    formula: H_s
+    number: 1
+    period: 1
+    group: 1
+    color: '#FFFFFF'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+    _valance_electrons: 1
+    _valance_configuration: 1s1
+    _ENMAX: 200
+    _is_recommended_potential: false
+
+Element He:
+    formula: He
+    number: 2
+    period: 1
+    group: 18
+    color: '#D9FFFF'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+    _valance_electrons: 2
+    _valance_configuration: 1s2
+    _ENMAX: 478.896
+    _is_recommended_potential: true
+
+Element He_AE:
+    formula: He_AE
+    number: 2
+    period: 1
+    group: 18
+    color: '#D9FFFF'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+    _valance_electrons: 2
+    _valance_configuration: 1s2
+    _ENMAX: 2135.871
+    _is_recommended_potential: false
+
+Element Li:
+    formula: Li
+    number: 3
+    period: 2
+    group: 1
+    color: '#CC80FF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 1
+    _valance_configuration: 2s1
+    _ENMAX: 140
+    _is_recommended_potential: false
+
+Element Li_sv:
+    formula: Li_sv
+    number: 3
+    period: 2
+    group: 1
+    color: '#CC80FF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 3
+    _valance_configuration: 1s2_2s1
+    _ENMAX: 499.034
+    _is_recommended_potential: true
+
+Element Be:
+    formula: Be
+    number: 4
+    period: 2
+    group: 2
+    color: '#C2FF00'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 2
+    _valance_configuration: 2s1.99_2p0.01
+    _ENMAX: 247.543
+    _is_recommended_potential: true
+
+Element Be_sv:
+    formula: Be_sv
+    number: 4
+    period: 2
+    group: 2
+    color: '#C2FF00'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 4
+    _valance_configuration: 1s2_2s1.99_2p0.01
+    _ENMAX: 308.768
+    _is_recommended_potential: false
+
+Element B:
+    formula: B
+    number: 5
+    period: 2
+    group: 13
+    color: '#FFB5B5'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 3
+    _valance_configuration: 2s2_2p1
+    _ENMAX: 318.614
+    _is_recommended_potential: true
+
+Element B_h:
+    formula: B_h
+    number: 5
+    period: 2
+    group: 13
+    color: '#FFB5B5'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 3
+    _valance_configuration: 2s2_2p1
+    _ENMAX: 700
+    _is_recommended_potential: false
+
+Element B_s:
+    formula: B_s
+    number: 5
+    period: 2
+    group: 13
+    color: '#FFB5B5'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 3
+    _valance_configuration: 2s2_2p1
+    _ENMAX: 269.245
+    _is_recommended_potential: false
+
+Element C:
+    formula: C
+    number: 6
+    period: 2
+    group: 14
+    color: '#909090'
+    _default_bonds:
+        Element H: 1.09
+        Element C: 1.54
+        Element N: 1.47
+        Element O: 1.43
+        Element F: 1.35
+        Element P: 1.87
+        Element S: 1.81
+        Element Cl: 1.77
+        Element Se: 1.98
+        Element Br: 1.94
+        Element Te: 2.21
+        Element I: 2.16
+    _valance_electrons: 4
+    _valance_configuration: 2s2_2p2
+    _ENMAX: 400
+    _is_recommended_potential: true
+
+Element C_h:
+    formula: C_h
+    number: 6
+    period: 2
+    group: 14
+    color: '#909090'
+    _default_bonds:
+        Element H: 1.09
+        Element C: 1.54
+        Element N: 1.47
+        Element O: 1.43
+        Element F: 1.35
+        Element P: 1.87
+        Element S: 1.81
+        Element Cl: 1.77
+        Element Se: 1.98
+        Element Br: 1.94
+        Element Te: 2.21
+        Element I: 2.16
+    _valance_electrons: 4
+    _valance_configuration: 2s2_2p2
+    _ENMAX: 741.689
+    _is_recommended_potential: false
+
+Element C_s:
+    formula: C_s
+    number: 6
+    period: 2
+    group: 14
+    color: '#909090'
+    _default_bonds:
+        Element H: 1.09
+        Element C: 1.54
+        Element N: 1.47
+        Element O: 1.43
+        Element F: 1.35
+        Element P: 1.87
+        Element S: 1.81
+        Element Cl: 1.77
+        Element Se: 1.98
+        Element Br: 1.94
+        Element Te: 2.21
+        Element I: 2.16
+    _valance_electrons: 4
+    _valance_configuration: 2s2_2p2
+    _ENMAX: 273.911
+    _is_recommended_potential: false
+
+Element N:
+    formula: N
+    number: 7
+    period: 2
+    group: 15
+    color: '#3050F8'
+    _default_bonds:
+        Element H: 1.01
+        Element C: 1.47
+        Element N: 1.45
+        Element O: 1.40
+        Element F: 1.33
+        Element P: 1.80
+        Element S: 1.74
+        Element Cl: 1.70
+        Element Se: 1.90
+        Element Br: 1.86
+        Element Te: 2.13
+        Element I: 2.08
+    _valance_electrons: 5
+    _valance_configuration: 2s2_2p3
+    _ENMAX: 400
+    _is_recommended_potential: true
+
+Element N_h:
+    formula: N_h
+    number: 7
+    period: 2
+    group: 15
+    color: '#3050F8'
+    _default_bonds:
+        Element H: 1.01
+        Element C: 1.47
+        Element N: 1.45
+        Element O: 1.40
+        Element F: 1.33
+        Element P: 1.80
+        Element S: 1.74
+        Element Cl: 1.70
+        Element Se: 1.90
+        Element Br: 1.86
+        Element Te: 2.13
+        Element I: 2.08
+    _valance_electrons: 5
+    _valance_configuration: 2s2_2p3
+    _ENMAX: 755.582
+    _is_recommended_potential: false
+
+Element N_s:
+    formula: N_s
+    number: 7
+    period: 2
+    group: 15
+    color: '#3050F8'
+    _default_bonds:
+        Element H: 1.01
+        Element C: 1.47
+        Element N: 1.45
+        Element O: 1.40
+        Element F: 1.33
+        Element P: 1.80
+        Element S: 1.74
+        Element Cl: 1.70
+        Element Se: 1.90
+        Element Br: 1.86
+        Element Te: 2.13
+        Element I: 2.08
+    _valance_electrons: 5
+    _valance_configuration: 2s2_2p3
+    _ENMAX: 279.692
+    _is_recommended_potential: false
+
+Element O:
+    formula: O
+    number: 8
+    period: 2
+    group: 16
+    color: '#FF0D0D'
+    _default_bonds:
+        Element H: 0.96
+        Element C: 1.43
+        Element N: 1.40
+        Element O: 1.48
+        Element F: 1.42
+        Element P: 1.77
+        Element S: 1.71
+        Element Cl: 1.67
+        Element Se: 1.87
+        Element Br: 1.83
+        Element Te: 2.10
+        Element I: 2.05
+    _valance_electrons: 6
+    _valance_configuration: 2s2_2p4
+    _ENMAX: 400
+    _is_recommended_potential: true
+
+Element O_h:
+    formula: O_h
+    number: 8
+    period: 2
+    group: 16
+    color: '#FF0D0D'
+    _default_bonds:
+        Element H: 0.96
+        Element C: 1.43
+        Element N: 1.40
+        Element O: 1.48
+        Element F: 1.42
+        Element P: 1.77
+        Element S: 1.71
+        Element Cl: 1.67
+        Element Se: 1.87
+        Element Br: 1.83
+        Element Te: 2.10
+        Element I: 2.05
+    _valance_electrons: 6
+    _valance_configuration: 2s2_2p4
+    _ENMAX: 765.519
+    _is_recommended_potential: false
+
+Element O_s:
+    formula: O_s
+    number: 8
+    period: 2
+    group: 16
+    color: '#FF0D0D'
+    _default_bonds:
+        Element H: 0.96
+        Element C: 1.43
+        Element N: 1.40
+        Element O: 1.48
+        Element F: 1.42
+        Element P: 1.77
+        Element S: 1.71
+        Element Cl: 1.67
+        Element Se: 1.87
+        Element Br: 1.83
+        Element Te: 2.10
+        Element I: 2.05
+    _valance_electrons: 6
+    _valance_configuration: 2s2_2p4
+    _ENMAX: 282.853
+    _is_recommended_potential: false
+
+Element F:
+    formula: F
+    number: 9
+    period: 2
+    group: 17
+    color: '#90E050'
+    _default_bonds:
+        Element H: 0.92
+        Element C: 1.35
+        Element N: 1.33
+        Element O: 1.42
+        Element F: 1.42
+        Element P: 1.75
+        Element S: 1.69
+        Element Cl: 1.65
+        Element Se: 1.85
+        Element Br: 1.81
+        Element Te: 2.08
+        Element I: 2.03
+    _valance_electrons: 7
+    _valance_configuration: 2s2_2p5
+    _ENMAX: 400
+    _is_recommended_potential: true
+
+Element F_h:
+    formula: F_h
+    number: 9
+    period: 2
+    group: 17
+    color: '#90E050'
+    _default_bonds:
+        Element H: 0.92
+        Element C: 1.35
+        Element N: 1.33
+        Element O: 1.42
+        Element F: 1.42
+        Element P: 1.75
+        Element S: 1.69
+        Element Cl: 1.65
+        Element Se: 1.85
+        Element Br: 1.81
+        Element Te: 2.08
+        Element I: 2.03
+    _valance_electrons: 7
+    _valance_configuration: 2s2_2p5
+    _ENMAX: 772.626
+    _is_recommended_potential: false
+
+Element F_s:
+    formula: F_s
+    number: 9
+    period: 2
+    group: 17
+    color: '#90E050'
+    _default_bonds:
+        Element H: 0.92
+        Element C: 1.35
+        Element N: 1.33
+        Element O: 1.42
+        Element F: 1.42
+        Element P: 1.75
+        Element S: 1.69
+        Element Cl: 1.65
+        Element Se: 1.85
+        Element Br: 1.81
+        Element Te: 2.08
+        Element I: 2.03
+    _valance_electrons: 7
+    _valance_configuration: 2s2_2p5
+    _ENMAX: 289.837
+    _is_recommended_potential: false
+
+Element Ne:
+    formula: Ne
+    number: 10
+    period: 2
+    group: 18
+    color: '#B3E3F5'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+    _valance_electrons: 8
+    _valance_configuration: 2s2_2p6
+    _ENMAX: 343.606
+    _is_recommended_potential: true
+
+Element Na:
+    formula: Na
+    number: 11
+    period: 3
+    group: 1
+    color: '#AB5CF2'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 1
+    _valance_configuration: 3s1
+    _ENMAX: 101.968
+    _is_recommended_potential: false
+
+Element Na_pv:
+    formula: Na_pv
+    number: 11
+    period: 3
+    group: 1
+    color: '#AB5CF2'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 7
+    _valance_configuration: 2p6_3s1
+    _ENMAX: 259.561
+    _is_recommended_potential: true
+
+Element Na_sv:
+    formula: Na_sv
+    number: 11
+    period: 3
+    group: 1
+    color: '#AB5CF2'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 9
+    _valance_configuration: 2s2_2p6_3s1
+    _ENMAX: 645.64
+    _is_recommended_potential: false
+
+Element Mg:
+    formula: Mg
+    number: 12
+    period: 3
+    group: 2
+    color: '#8AFF00'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 2
+    _valance_configuration: 3s2
+    _ENMAX: 200
+    _is_recommended_potential: true
+
+Element Mg_pv:
+    formula: Mg_pv
+    number: 12
+    period: 3
+    group: 2
+    color: '#8AFF00'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 8
+    _valance_configuration: 2p6_3s2
+    _ENMAX: 403.929
+    _is_recommended_potential: false
+
+Element Mg_sv:
+    formula: Mg_sv
+    number: 12
+    period: 3
+    group: 2
+    color: '#8AFF00'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 10
+    _valance_configuration: 2s2_2p6_3s2
+    _ENMAX: 495.223
+    _is_recommended_potential: false
+
+Element Al:
+    formula: Al
+    number: 13
+    period: 3
+    group: 13
+    color: '#BFA6A6'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 3
+    _valance_configuration: 3s2_3p1
+    _ENMAX: 240.3
+    _is_recommended_potential: true
+
+Element Si:
+    formula: Si
+    number: 14
+    period: 3
+    group: 14
+    color: '#F0C8A0'
+    _default_bonds:
+        Element H: 1.48
+        Element C: 1.88
+        Element N: 1.85
+        Element O: 1.81
+        Element F: 1.72
+        Element P: 2.19
+        Element S: 2.13
+        Element Cl: 2.09
+        Element Se: 2.29
+        Element Br: 2.25
+        Element Te: 2.52
+        Element I: 2.47
+    _valance_electrons: 4
+    _valance_configuration: 3s2_3p2
+    _ENMAX: 245.345
+    _is_recommended_potential: true
+
+Element P:
+    formula: P
+    number: 15
+    period: 3
+    group: 15
+    color: '#FF8000'
+    _default_bonds:
+        Element H: 1.42
+        Element C: 1.87
+        Element N: 1.80
+        Element O: 1.77
+        Element F: 1.75
+        Element P: 2.20
+        Element S: 2.13
+        Element Cl: 2.09
+        Element Se: 2.29
+        Element Br: 2.25
+        Element Te: 2.52
+        Element I: 2.47
+    _valance_electrons: 5
+    _valance_configuration: 3s2_3p3
+    _ENMAX: 255.04
+    _is_recommended_potential: true
+
+Element P_h:
+    formula: P_h
+    number: 15
+    period: 3
+    group: 15
+    color: '#FF8000'
+    _default_bonds:
+        Element H: 1.42
+        Element C: 1.87
+        Element N: 1.80
+        Element O: 1.77
+        Element F: 1.75
+        Element P: 2.20
+        Element S: 2.13
+        Element Cl: 2.09
+        Element Se: 2.29
+        Element Br: 2.25
+        Element Te: 2.52
+        Element I: 2.47
+    _valance_electrons: 5
+    _valance_configuration: 3s2_3p3
+    _ENMAX: 390.202
+    _is_recommended_potential: false
+
+Element S:
+    formula: S
+    number: 16
+    period: 3
+    group: 16
+    color: '#FFFF30'
+    _default_bonds:
+        Element H: 1.36
+        Element C: 1.81
+        Element N: 1.74
+        Element O: 1.71
+        Element F: 1.69
+        Element P: 2.13
+        Element S: 2.07
+        Element Cl: 2.03
+        Element Se: 2.23
+        Element Br: 2.19
+        Element Te: 2.46
+        Element I: 2.41
+    _valance_electrons: 6
+    _valance_configuration: 3s2_3p4
+    _ENMAX: 258.689
+    _is_recommended_potential: true
+
+Element S_h:
+    formula: S_h
+    number: 16
+    period: 3
+    group: 16
+    color: '#FFFF30'
+    _default_bonds:
+        Element H: 1.36
+        Element C: 1.81
+        Element N: 1.74
+        Element O: 1.71
+        Element F: 1.69
+        Element P: 2.13
+        Element S: 2.07
+        Element Cl: 2.03
+        Element Se: 2.23
+        Element Br: 2.19
+        Element Te: 2.46
+        Element I: 2.41
+    _valance_electrons: 6
+    _valance_configuration: 3s2_3p4
+    _ENMAX: 402.436
+    _is_recommended_potential: false
+
+Element Cl:
+    formula: Cl
+    number: 17
+    period: 3
+    group: 17
+    color: '#1FF01F'
+    _default_bonds:
+        Element H: 1.27
+        Element C: 1.77
+        Element N: 1.70
+        Element O: 1.67
+        Element F: 1.65
+        Element P: 2.09
+        Element S: 2.03
+        Element Cl: 1.99
+        Element Se: 2.19
+        Element Br: 2.15
+        Element Te: 2.42
+        Element I: 2.37
+    _valance_electrons: 7
+    _valance_configuration: 3s2_3p5
+    _ENMAX: 262.472
+    _is_recommended_potential: true
+
+Element Cl_h:
+    formula: Cl_h
+    number: 17
+    period: 3
+    group: 17
+    color: '#1FF01F'
+    _default_bonds:
+        Element H: 1.27
+        Element C: 1.77
+        Element N: 1.70
+        Element O: 1.67
+        Element F: 1.65
+        Element P: 2.09
+        Element S: 2.03
+        Element Cl: 1.99
+        Element Se: 2.19
+        Element Br: 2.15
+        Element Te: 2.42
+        Element I: 2.37
+    _valance_electrons: 7
+    _valance_configuration: 3s2_3p5
+    _ENMAX: 409.136
+    _is_recommended_potential: false
+
+Element Ar:
+    formula: Ar
+    number: 18
+    period: 3
+    group: 18
+    color: '#80D1E3'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+    _valance_electrons: 8
+    _valance_configuration: 3s2_3p6
+    _ENMAX: 266.408
+    _is_recommended_potential: true
+
+Element K_pv:
+    formula: K_pv
+    number: 19
+    period: 4
+    group: 1
+    color: '#8F40D4'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 7
+    _valance_configuration: 3p6_4s1
+    _ENMAX: 116.731
+    _is_recommended_potential: false
+
+Element K_sv:
+    formula: K_sv
+    number: 19
+    period: 4
+    group: 1
+    color: '#8F40D4'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 9
+    _valance_configuration: 3s2_3p6_4s1
+    _ENMAX: 259.264
+    _is_recommended_potential: true
+
+Element Ca_pv:
+    formula: Ca_pv
+    number: 20
+    period: 4
+    group: 2
+    color: '#3DFF00'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 8
+    _valance_configuration: 3p6_4s2
+    _ENMAX: 119.559
+    _is_recommended_potential: false
+
+Element Ca_sv:
+    formula: Ca_sv
+    number: 20
+    period: 4
+    group: 2
+    color: '#3DFF00'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 10
+    _valance_configuration: 3s2_3p6_4s2
+    _ENMAX: 266.622
+    _is_recommended_potential: true
+
+Element Sc:
+    formula: Sc
+    number: 21
+    period: 4
+    group: 3
+    color: '#E6E6E6'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 3
+    _valance_configuration: 3d2_4s1
+    _ENMAX: 154.763
+    _is_recommended_potential: false
+
+Element Sc_sv:
+    formula: Sc_sv
+    number: 21
+    period: 4
+    group: 3
+    color: '#E6E6E6'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 11
+    _valance_configuration: 3s2_3p6_3d2_4s1
+    _ENMAX: 222.66
+    _is_recommended_potential: true
+
+Element Ti:
+    formula: Ti
+    number: 22
+    period: 4
+    group: 4
+    color: '#BFC2C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 4
+    _valance_configuration: 3d3_4s1
+    _ENMAX: 178.33
+    _is_recommended_potential: false
+
+Element Ti_pv:
+    formula: Ti_pv
+    number: 22
+    period: 4
+    group: 4
+    color: '#BFC2C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 10
+    _valance_configuration: 3p6_3d3_4s1
+    _ENMAX: 222.335
+    _is_recommended_potential: false
+
+Element Ti_sv:
+    formula: Ti_sv
+    number: 22
+    period: 4
+    group: 4
+    color: '#BFC2C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 12
+    _valance_configuration: 3s2_3p6_3d4_4s1
+    _ENMAX: 274.61
+    _is_recommended_potential: true
+
+Element V:
+    formula: V
+    number: 23
+    period: 4
+    group: 5
+    color: '#A6A6AB'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 5
+    _valance_configuration: 3d4_4s1
+    _ENMAX: 192.543
+    _is_recommended_potential: false
+
+Element V_pv:
+    formula: V_pv
+    number: 23
+    period: 4
+    group: 5
+    color: '#A6A6AB'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 11
+    _valance_configuration: 3p6_3d4_4s1
+    _ENMAX: 263.673
+    _is_recommended_potential: false
+
+Element V_sv:
+    formula: V_sv
+    number: 23
+    period: 4
+    group: 5
+    color: '#A6A6AB'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 13
+    _valance_configuration: 3s2_3p6_3d5_4s1
+    _ENMAX: 263.673
+    _is_recommended_potential: true
+
+Element Cr:
+    formula: Cr
+    number: 24
+    period: 4
+    group: 6
+    color: '#8A99C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 6
+    _valance_configuration: 3d5_4s1
+    _ENMAX: 227.08
+    _is_recommended_potential: false
+
+Element Cr_pv:
+    formula: Cr_pv
+    number: 24
+    period: 4
+    group: 6
+    color: '#8A99C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 12
+    _valance_configuration: 3p6_3d5_4s1
+    _ENMAX: 265.681
+    _is_recommended_potential: true
+
+Element Cr_sv:
+    formula: Cr_sv
+    number: 24
+    period: 4
+    group: 6
+    color: '#8A99C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 14
+    _valance_configuration: 3s2_3p6_3d6_4s1
+    _ENMAX: 395.471
+    _is_recommended_potential: false
+
+Element Mn:
+    formula: Mn
+    number: 25
+    period: 4
+    group: 7
+    color: '#9C7AC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 7
+    _valance_configuration: 3d6_4s1
+    _ENMAX: 269.864
+    _is_recommended_potential: false
+
+Element Mn_pv:
+    formula: Mn_pv
+    number: 25
+    period: 4
+    group: 7
+    color: '#9C7AC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 13
+    _valance_configuration: 3p6_3d6_4s1
+    _ENMAX: 269.864
+    _is_recommended_potential: true
+
+Element Mn_sv:
+    formula: Mn_sv
+    number: 25
+    period: 4
+    group: 7
+    color: '#9C7AC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 15
+    _valance_configuration: 3s2_3p6_3d7_4s1
+    _ENMAX: 387.187
+    _is_recommended_potential: false
+
+Element Fe:
+    formula: Fe
+    number: 26
+    period: 4
+    group: 8
+    color: '#E06633'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 8
+    _valance_configuration: 3d7_4s1
+    _ENMAX: 267.882
+    _is_recommended_potential: true
+
+Element Fe_pv:
+    formula: Fe_pv
+    number: 26
+    period: 4
+    group: 8
+    color: '#E06633'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 14
+    _valance_configuration: 3p6_3d7_4s1
+    _ENMAX: 293.238
+    _is_recommended_potential: false
+
+Element Fe_sv:
+    formula: Fe_sv
+    number: 26
+    period: 4
+    group: 8
+    color: '#E06633'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 16
+    _valance_configuration: 3s2_3p6_3d8_4s1
+    _ENMAX: 390.558
+    _is_recommended_potential: false
+
+Element Co:
+    formula: Co
+    number: 27
+    period: 4
+    group: 9
+    color: '#F090A0'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 9
+    _valance_configuration: 3d8_4s1
+    _ENMAX: 267.968
+    _is_recommended_potential: true
+
+Element Co_pv:
+    formula: Co_pv
+    number: 27
+    period: 4
+    group: 9
+    color: '#F090A0'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 15
+    _valance_configuration: 3p6_3d8_4s1
+    _ENMAX: 271.042
+    _is_recommended_potential: false
+
+Element Co_sv:
+    formula: Co_sv
+    number: 27
+    period: 4
+    group: 9
+    color: '#F090A0'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 17
+    _valance_configuration: 3s2_3p6_3d9_4s1
+    _ENMAX: 390.362
+    _is_recommended_potential: false
+
+Element Ni:
+    formula: Ni
+    number: 28
+    period: 4
+    group: 10
+    color: '#50D050'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 10
+    _valance_configuration: 3d9_4s1
+    _ENMAX: 269.532
+    _is_recommended_potential: true
+
+Element Ni_pv:
+    formula: Ni_pv
+    number: 28
+    period: 4
+    group: 10
+    color: '#50D050'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 16
+    _valance_configuration: 3p6_3d9_4s1
+    _ENMAX: 367.986
+    _is_recommended_potential: false
+
+Element Cu:
+    formula: Cu
+    number: 29
+    period: 4
+    group: 11
+    color: '#C88033'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 11
+    _valance_configuration: 3d10_4s1
+    _ENMAX: 295.446
+    _is_recommended_potential: true
+
+Element Cu_pv:
+    formula: Cu_pv
+    number: 29
+    period: 4
+    group: 11
+    color: '#C88033'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 17
+    _valance_configuration: 3p6_3d10_4s1
+    _ENMAX: 368.648
+    _is_recommended_potential: false
+
+Element Zn:
+    formula: Zn
+    number: 30
+    period: 4
+    group: 12
+    color: '#7D80B0'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 12
+    _valance_configuration: 3d10_4s2
+    _ENMAX: 276.723
+    _is_recommended_potential: true
+
+Element Ga:
+    formula: Ga
+    number: 31
+    period: 4
+    group: 13
+    color: '#C28F8F'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 3
+    _valance_configuration: 4s2_4p1
+    _ENMAX: 134.678
+    _is_recommended_potential: false
+
+Element Ga_d:
+    formula: Ga_d
+    number: 31
+    period: 4
+    group: 13
+    color: '#C28F8F'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 13
+    _valance_configuration: 3d10_4s2_4p1
+    _ENMAX: 282.691
+    _is_recommended_potential: true
+
+Element Ga_h:
+    formula: Ga_h
+    number: 31
+    period: 4
+    group: 13
+    color: '#C28F8F'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 13
+    _valance_configuration: 3d10_4s2_4p1
+    _ENMAX: 404.601
+    _is_recommended_potential: false
+
+Element Ge:
+    formula: Ge
+    number: 32
+    period: 4
+    group: 14
+    color: '#668F8F'
+    _default_bonds:
+        Element H: 1.48
+        Element C: 1.88
+        Element N: 1.85
+        Element O: 1.81
+        Element F: 1.72
+        Element P: 2.19
+        Element S: 2.13
+        Element Cl: 2.09
+        Element Se: 2.29
+        Element Br: 2.25
+        Element Te: 2.52
+        Element I: 2.47
+    _valance_electrons: 4
+    _valance_configuration: 4s2_4p2
+    _ENMAX: 173.807
+    _is_recommended_potential: false
+
+Element Ge_d:
+    formula: Ge_d
+    number: 32
+    period: 4
+    group: 14
+    color: '#668F8F'
+    _default_bonds:
+        Element H: 1.48
+        Element C: 1.88
+        Element N: 1.85
+        Element O: 1.81
+        Element F: 1.72
+        Element P: 2.19
+        Element S: 2.13
+        Element Cl: 2.09
+        Element Se: 2.29
+        Element Br: 2.25
+        Element Te: 2.52
+        Element I: 2.47
+    _valance_electrons: 14
+    _valance_configuration: 3d10_4s2_4p2
+    _ENMAX: 310.294
+    _is_recommended_potential: true
+
+Element Ge_h:
+    formula: Ge_h
+    number: 32
+    period: 4
+    group: 14
+    color: '#668F8F'
+    _default_bonds:
+        Element H: 1.48
+        Element C: 1.88
+        Element N: 1.85
+        Element O: 1.81
+        Element F: 1.72
+        Element P: 2.19
+        Element S: 2.13
+        Element Cl: 2.09
+        Element Se: 2.29
+        Element Br: 2.25
+        Element Te: 2.52
+        Element I: 2.47
+    _valance_electrons: 14
+    _valance_configuration: 3d10_4s2_4p2
+    _ENMAX: 410.425
+    _is_recommended_potential: false
+
+Element As:
+    formula: As
+    number: 33
+    period: 4
+    group: 15
+    color: '#BD80E3'
+    _default_bonds:
+        Element H: 1.42
+        Element C: 1.87
+        Element N: 1.80
+        Element O: 1.77
+        Element F: 1.75
+        Element P: 2.20
+        Element S: 2.13
+        Element Cl: 2.09
+        Element Se: 2.29
+        Element Br: 2.25
+        Element Te: 2.52
+        Element I: 2.47
+    _valance_electrons: 5
+    _valance_configuration: 4s2_4p3
+    _ENMAX: 208.702
+    _is_recommended_potential: true
+
+Element As_d:
+    formula: As_d
+    number: 33
+    period: 4
+    group: 15
+    color: '#BD80E3'
+    _default_bonds:
+        Element H: 1.42
+        Element C: 1.87
+        Element N: 1.80
+        Element O: 1.77
+        Element F: 1.75
+        Element P: 2.20
+        Element S: 2.13
+        Element Cl: 2.09
+        Element Se: 2.29
+        Element Br: 2.25
+        Element Te: 2.52
+        Element I: 2.47
+    _valance_electrons: 15
+    _valance_configuration: 3d10_4s2_4p3
+    _ENMAX: 288.651
+    _is_recommended_potential: false
+
+Element Se:
+    formula: Se
+    number: 34
+    period: 4
+    group: 16
+    color: '#FFA100'
+    _default_bonds:
+        Element H: 1.36
+        Element C: 1.81
+        Element N: 1.74
+        Element O: 1.71
+        Element F: 1.69
+        Element P: 2.13
+        Element S: 2.07
+        Element Cl: 2.03
+        Element Se: 2.23
+        Element Br: 2.19
+        Element Te: 2.46
+        Element I: 2.41
+    _valance_electrons: 6
+    _valance_configuration: 4s2_4p4
+    _ENMAX: 211.555
+    _is_recommended_potential: true
+
+Element Br:
+    formula: Br
+    number: 35
+    period: 4
+    group: 17
+    color: '#A62929'
+    _default_bonds:
+        Element H: 1.27
+        Element C: 1.77
+        Element N: 1.70
+        Element O: 1.67
+        Element F: 1.65
+        Element P: 2.09
+        Element S: 2.03
+        Element Cl: 1.99
+        Element Se: 2.19
+        Element Br: 2.15
+        Element Te: 2.42
+        Element I: 2.37
+    _valance_electrons: 7
+    _valance_configuration: 4s2_4p5
+    _ENMAX: 216.285
+    _is_recommended_potential: true
+
+Element Kr:
+    formula: Kr
+    number: 36
+    period: 4
+    group: 18
+    color: '#5CB8D1'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+    _valance_electrons: 8
+    _valance_configuration: 4s2_4p6
+    _ENMAX: 185.331
+    _is_recommended_potential: true
+
+Element Rb_pv:
+    formula: Rb_pv
+    number: 37
+    period: 5
+    group: 1
+    color: '#702EB0'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 7
+    _valance_configuration: 4p6_4d0.001_5s0.999
+    _ENMAX: 121.882
+    _is_recommended_potential: false
+
+Element Rb_sv:
+    formula: Rb_sv
+    number: 37
+    period: 5
+    group: 1
+    color: '#702EB0'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 9
+    _valance_configuration: 4s2_4p6_4d0.001_5s0.999
+    _ENMAX: 220.112
+    _is_recommended_potential: true
+
+Element Sr_sv:
+    formula: Sr_sv
+    number: 38
+    period: 5
+    group: 2
+    color: '#00FF00'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 10
+    _valance_configuration: 4s2_4p6_4d0.001_5s1.999
+    _ENMAX: 229.353
+    _is_recommended_potential: true
+
+Element Y_sv:
+    formula: Y_sv
+    number: 39
+    period: 5
+    group: 3
+    color: '#94FFFF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 11
+    _valance_configuration: 4s2_4p6_4d2_5s1
+    _ENMAX: 202.626
+    _is_recommended_potential: true
+
+Element Zr_sv:
+    formula: Zr_sv
+    number: 40
+    period: 5
+    group: 4
+    color: '#94E0E0'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 12
+    _valance_configuration: 4s2_4p6_4d3_5s1
+    _ENMAX: 229.898
+    _is_recommended_potential: true
+
+Element Nb_pv:
+    formula: Nb_pv
+    number: 41
+    period: 5
+    group: 5
+    color: '#73C2C9'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 11
+    _valance_configuration: 4p6_4d4_5s1
+    _ENMAX: 208.608
+    _is_recommended_potential: false
+
+Element Nb_sv:
+    formula: Nb_sv
+    number: 41
+    period: 5
+    group: 5
+    color: '#73C2C9'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 13
+    _valance_configuration: 4s2_4p6_4d4_5s1
+    _ENMAX: 293.235
+    _is_recommended_potential: true
+
+Element Mo:
+    formula: Mo
+    number: 42
+    period: 5
+    group: 6
+    color: '#54B5B5'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 6
+    _valance_configuration: 4d5_5s1
+    _ENMAX: 224.584
+    _is_recommended_potential: false
+
+Element Mo_pv:
+    formula: Mo_pv
+    number: 42
+    period: 5
+    group: 6
+    color: '#54B5B5'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 12
+    _valance_configuration: 4p6_4d5_5s1
+    _ENMAX: 224.584
+    _is_recommended_potential: false
+
+Element Mo_sv:
+    formula: Mo_sv
+    number: 42
+    period: 5
+    group: 6
+    color: '#54B5B5'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 14
+    _valance_configuration: 4s2_4p6_4d5_5s1
+    _ENMAX: 242.676
+    _is_recommended_potential: true
+Element Tc:
+    formula: Tc
+    number: 43
+    period: 5
+    group: 7
+    color: '#3B9E9E'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 7
+    _valance_configuration: 4d6_5s1
+    _ENMAX: 228.694
+    _is_recommended_potential: false
+
+Element Tc_pv:
+    formula: Tc_pv
+    number: 43
+    period: 5
+    group: 7
+    color: '#3B9E9E'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 13
+    _valance_configuration: 4p6_4d6_5s1
+    _ENMAX: 263.523
+    _is_recommended_potential: true
+
+Element Tc_sv:
+    formula: Tc_sv
+    number: 43
+    period: 5
+    group: 7
+    color: '#3B9E9E'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 15
+    _valance_configuration: 4s2_4p6_4d6_5s1
+    _ENMAX: 318.703
+    _is_recommended_potential: false
+
+Element Ru:
+    formula: Ru
+    number: 44
+    period: 5
+    group: 8
+    color: '#248F8F'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 8
+    _valance_configuration: 4d7_5s1
+    _ENMAX: 213.271
+    _is_recommended_potential: false
+
+Element Ru_pv:
+    formula: Ru_pv
+    number: 44
+    period: 5
+    group: 8
+    color: '#248F8F'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 14
+    _valance_configuration: 4p6_4d7_5s1
+    _ENMAX: 240.049
+    _is_recommended_potential: true
+
+Element Ru_sv:
+    formula: Ru_sv
+    number: 44
+    period: 5
+    group: 8
+    color: '#248F8F'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 16
+    _valance_configuration: 4s2_4p6_4d7_5s1
+    _ENMAX: 318.855
+    _is_recommended_potential: false
+
+Element Rh:
+    formula: Rh
+    number: 45
+    period: 5
+    group: 9
+    color: '#0A7D8C'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 9
+    _valance_configuration: 4d8_5s1
+    _ENMAX: 228.996
+    _is_recommended_potential: false
+
+Element Rh_pv:
+    formula: Rh_pv
+    number: 45
+    period: 5
+    group: 9
+    color: '#0A7D8C'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 15
+    _valance_configuration: 4p6_4d8_5s1
+    _ENMAX: 247.408
+    _is_recommended_potential: true
+
+Element Pd:
+    formula: Pd
+    number: 46
+    period: 5
+    group: 10
+    color: '#006985'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 10
+    _valance_configuration: 4d9_5s1
+    _ENMAX: 250.925
+    _is_recommended_potential: true
+
+Element Pd_pv:
+    formula: Pd_pv
+    number: 46
+    period: 5
+    group: 10
+    color: '#006985'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 16
+    _valance_configuration: 4p6_4d9_5s1
+    _ENMAX: 250.925
+    _is_recommended_potential: false
+
+Element Ag:
+    formula: Ag
+    number: 47
+    period: 5
+    group: 11
+    color: '#C0C0C0'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 11
+    _valance_configuration: 4d10_5s1
+    _ENMAX: 249.844
+    _is_recommended_potential: true
+
+Element Ag_pv:
+    formula: Ag_pv
+    number: 47
+    period: 5
+    group: 11
+    color: '#C0C0C0'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 17
+    _valance_configuration: 4p6_4d10_5s1
+    _ENMAX: 297.865
+    _is_recommended_potential: false
+
+Element Cd:
+    formula: Cd
+    number: 48
+    period: 5
+    group: 12
+    color: '#FFD98F'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 12
+    _valance_configuration: 4d10_5s2
+    _ENMAX: 274.336
+    _is_recommended_potential: true
+
+Element In:
+    formula: In
+    number: 49
+    period: 5
+    group: 13
+    color: '#A67573'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 3
+    _valance_configuration: 5s2_5p1
+    _ENMAX: 95.934
+    _is_recommended_potential: false
+
+Element In_d:
+    formula: In_d
+    number: 49
+    period: 5
+    group: 13
+    color: '#A67573'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 13
+    _valance_configuration: 4d10_5s2_5p1
+    _ENMAX: 239.211
+    _is_recommended_potential: true
+
+Element Sn:
+    formula: Sn
+    number: 50
+    period: 5
+    group: 14
+    color: '#668080'
+    _default_bonds:
+        Element H: 1.48
+        Element C: 1.88
+        Element N: 1.85
+        Element O: 1.81
+        Element F: 1.72
+        Element P: 2.19
+        Element S: 2.13
+        Element Cl: 2.09
+        Element Se: 2.29
+        Element Br: 2.25
+        Element Te: 2.52
+        Element I: 2.47
+    _valance_electrons: 4
+    _valance_configuration: 5s2_5p2
+    _ENMAX: 103.236
+    _is_recommended_potential: false
+
+Element Sn_d:
+    formula: Sn_d
+    number: 50
+    period: 5
+    group: 14
+    color: '#668080'
+    _default_bonds:
+        Element H: 1.48
+        Element C: 1.88
+        Element N: 1.85
+        Element O: 1.81
+        Element F: 1.72
+        Element P: 2.19
+        Element S: 2.13
+        Element Cl: 2.09
+        Element Se: 2.29
+        Element Br: 2.25
+        Element Te: 2.52
+        Element I: 2.47
+    _valance_electrons: 14
+    _valance_configuration: 4d10_5s2_5p2
+    _ENMAX: 241.083
+    _is_recommended_potential: true
+
+Element Sb:
+    formula: Sb
+    number: 51
+    period: 5
+    group: 15
+    color: '#9E63B5'
+    _default_bonds:
+        Element H: 1.42
+        Element C: 1.87
+        Element N: 1.80
+        Element O: 1.77
+        Element F: 1.75
+        Element P: 2.20
+        Element S: 2.13
+        Element Cl: 2.09
+        Element Se: 2.29
+        Element Br: 2.25
+        Element Te: 2.52
+        Element I: 2.47
+    _valance_electrons: 5
+    _valance_configuration: 5s2_5p3
+    _ENMAX: 172.069
+    _is_recommended_potential: true
+
+Element Te:
+    formula: Te
+    number: 52
+    period: 5
+    group: 16
+    color: '#D47A00'
+    _default_bonds:
+        Element H: 1.36
+        Element C: 1.81
+        Element N: 1.74
+        Element O: 1.71
+        Element F: 1.69
+        Element P: 2.13
+        Element S: 2.07
+        Element Cl: 2.03
+        Element Se: 2.23
+        Element Br: 2.19
+        Element Te: 2.46
+        Element I: 2.41
+    _valance_electrons: 6
+    _valance_configuration: 5s2_5p4
+    _ENMAX: 174.982
+    _is_recommended_potential: true
+
+Element I:
+    formula: I
+    number: 53
+    period: 5
+    group: 17
+    color: '#940094'
+    _default_bonds:
+        Element H: 1.27
+        Element C: 1.77
+        Element N: 1.70
+        Element O: 1.67
+        Element F: 1.65
+        Element P: 2.09
+        Element S: 2.03
+        Element Cl: 1.99
+        Element Se: 2.19
+        Element Br: 2.15
+        Element Te: 2.42
+        Element I: 2.37
+    _valance_electrons: 7
+    _valance_configuration: 5s2_5p5
+    _ENMAX: 175.647
+    _is_recommended_potential: true
+
+Element Xe:
+    formula: Xe
+    number: 54
+    period: 5
+    group: 18
+    color: '#429EB0'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+    _valance_electrons: 8
+    _valance_configuration: 5s2_5p6
+    _ENMAX: 153.118
+    _is_recommended_potential: true
+
+Element Cs_sv:
+    formula: Cs_sv
+    number: 55
+    period: 6
+    group: 1
+    color: '#57178F'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 9
+    _valance_configuration: 5s2_5p6_6s1
+    _ENMAX: 220.318
+    _is_recommended_potential: true
+
+Element Ba_sv:
+    formula: Ba_sv
+    number: 56
+    period: 6
+    group: 2
+    color: '#00C900'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 10
+    _valance_configuration: 5s2_5p6_5d0.01_6s1.99
+    _ENMAX: 187.181
+    _is_recommended_potential: true
+
+Element La:
+    formula: La
+    number: 57
+    period: 6
+    group: 3
+    color: '#70D4FF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 11
+    _valance_configuration: 4f0.0001_5s2_5p6_5d0.9999_6s2
+    _ENMAX: 219.292
+    _is_recommended_potential: true
+
+Element La_s:
+    formula: La_s
+    number: 57
+    period: 6
+    group: 3
+    color: '#70D4FF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 9
+    _valance_configuration: 5p6_5d1_6s2
+    _ENMAX: 136.53
+    _is_recommended_potential: false
+
+Element Ce:
+    formula: Ce
+    number: 58
+    period: 6
+    group: 3
+    color: '#FFFFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 12
+    _valance_configuration: 4f1_5s2_5p6_5d1_6s2
+    _ENMAX: 273.042
+    _is_recommended_potential: false
+
+Element Ce_3:
+    formula: Ce_3
+    number: 58
+    period: 6
+    group: 3
+    color: '#FFFFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 11
+    _valance_configuration: 5s2_5p6_5d1_6s2
+    _ENMAX: 176.506
+    _is_recommended_potential: false
+
+Element Ce_h:
+    formula: Ce_h
+    number: 58
+    period: 6
+    group: 3
+    color: '#FFFFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 12
+    _valance_configuration: 4f1_5s2_5p6_5d1_6s2
+    _ENMAX: 299.9
+    _is_recommended_potential: false
+
+Element Pr:
+    formula: Pr
+    number: 59
+    period: 6
+    group: 3
+    color: '#D9FFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 13
+    _valance_configuration: 4f2.5_5s2_5p6_5d0.5_6s2
+    _ENMAX: 337.25
+    _is_recommended_potential: false
+
+Element Pr_3:
+    formula: Pr_3
+    number: 59
+    period: 6
+    group: 3
+    color: '#D9FFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 11
+    _valance_configuration: 5s2_5p6_5d1_6s2
+    _ENMAX: 181.719
+    _is_recommended_potential: true
+
+Element Pr_h:
+    formula: Pr_h
+    number: 59
+    period: 6
+    group: 3
+    color: '#D9FFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 13
+    _valance_configuration: 4f2.5_5s2_5p6_5d0.5_6s2
+    _ENMAX: 400.742
+    _is_recommended_potential: false
+
+Element Nd:
+    formula: Nd
+    number: 60
+    period: 6
+    group: 3
+    color: '#C7FFA7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 14
+    _valance_configuration: 4f3.5_5s2_5p6_5d0.5_6s2
+    _ENMAX: 338.34
+    _is_recommended_potential: false
+
+Element Nd_3:
+    formula: Nd_3
+    number: 60
+    period: 6
+    group: 3
+    color: '#C7FFA7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 11
+    _valance_configuration: 5s2_5p6_5d1_6s2
+    _ENMAX: 182.619
+    _is_recommended_potential: true
+
+Element Nd_h:
+    formula: Nd_h
+    number: 60
+    period: 6
+    group: 3
+    color: '#C7FFA7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 14
+    _valance_configuration: 4f3.5_5s2_5p6_5d0.5_6s2
+    _ENMAX: 402.016
+    _is_recommended_potential: false
+
+Element Pm:
+    formula: Pm
+    number: 61
+    period: 6
+    group: 3
+    color: '#A3FFC2'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 15
+    _valance_configuration: 4f4.5_5s2_5p6_5d0.5_6s2
+    _ENMAX: 340.358
+    _is_recommended_potential: false
+
+Element Pm_3:
+    formula: Pm_3
+    number: 61
+    period: 6
+    group: 3
+    color: '#A3FFC2'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 11
+    _valance_configuration: 5s2_5p6_5d1_6s2
+    _ENMAX: 176.959
+    _is_recommended_potential: true
+
+Element Pm_h:
+    formula: Pm_h
+    number: 61
+    period: 6
+    group: 3
+    color: '#A3FFC2'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 15
+    _valance_configuration: 4f4.5_5s2_5p6_5d0.5_6s2
+    _ENMAX: 404.406
+    _is_recommended_potential: false
+
+Element Sm:
+    formula: Sm
+    number: 62
+    period: 6
+    group: 3
+    color: '#8FFFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 16
+    _valance_configuration: 4f5.5_5s2_5p6_5d0.5_6s2
+    _ENMAX: 341.177
+    _is_recommended_potential: false
+
+Element Sm_3:
+    formula: Sm_3
+    number: 62
+    period: 6
+    group: 3
+    color: '#8FFFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 11
+    _valance_configuration: 5s2_5p6_5d1_6s2
+    _ENMAX: 177.087
+    _is_recommended_potential: true
+
+Element Sm_h:
+    formula: Sm_h
+    number: 62
+    period: 6
+    group: 3
+    color: '#8FFFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 16
+    _valance_configuration: 4f5.5_5s2_5p6_5d0.5_6s2
+    _ENMAX: 405.382
+    _is_recommended_potential: false
+
+Element Eu:
+    formula: Eu
+    number: 63
+    period: 6
+    group: 3
+    color: '#61FFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 17
+    _valance_configuration: 4f6.5_5s2_5p6_5d0.5_6s2
+    _ENMAX: 344.705
+    _is_recommended_potential: false
+
+Element Eu_2:
+    formula: Eu_2
+    number: 63
+    period: 6
+    group: 3
+    color: '#61FFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 8
+    _valance_configuration: 5p6_6s2
+    _ENMAX: 99.328
+    _is_recommended_potential: true
+
+Element Eu_3:
+    formula: Eu_3
+    number: 63
+    period: 6
+    group: 3
+    color: '#61FFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 9
+    _valance_configuration: 5p6_5d1_6s2
+    _ENMAX: 129.057
+    _is_recommended_potential: false
+
+Element Eu_h:
+    formula: Eu_h
+    number: 63
+    period: 6
+    group: 3
+    color: '#61FFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 17
+    _valance_configuration: 4f6.5_5s2_5p6_5d0.5_6s2
+    _ENMAX: 403.212
+    _is_recommended_potential: false
+
+Element Gd:
+    formula: Gd
+    number: 64
+    period: 6
+    group: 3
+    color: '#45FFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 18
+    _valance_configuration: 4f7.5_5s2_5p6_5d0.5_6s2
+    _ENMAX: 342.859
+    _is_recommended_potential: false
+
+Element Gd_3:
+    formula: Gd_3
+    number: 64
+    period: 6
+    group: 3
+    color: '#45FFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 9
+    _valance_configuration: 5p6_5d1_6s2
+    _ENMAX: 154.332
+    _is_recommended_potential: true
+
+Element Gd_h:
+    formula: Gd_h
+    number: 64
+    period: 6
+    group: 3
+    color: '#45FFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 18
+    _valance_configuration: 4f7.5_5s2_5p6_5d0.5_6s2
+    _ENMAX: 407.403
+    _is_recommended_potential: false
+
+Element Tb:
+    formula: Tb
+    number: 65
+    period: 6
+    group: 3
+    color: '#30FFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 19
+    _valance_configuration: 4f8.5_5s2_5p6_5d0.5_6s2
+    _ENMAX: 340.855
+    _is_recommended_potential: false
+
+Element Tb_3:
+    formula: Tb_3
+    number: 65
+    period: 6
+    group: 3
+    color: '#30FFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 9
+    _valance_configuration: 5p6_5d1_6s2
+    _ENMAX: 155.613
+    _is_recommended_potential: true
+
+Element Tb_h:
+    formula: Tb_h
+    number: 65
+    period: 6
+    group: 3
+    color: '#30FFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 19
+    _valance_configuration: 4f8.5_5s2_5p6_5d0.5_6s2
+    _ENMAX: 405.043
+    _is_recommended_potential: false
+
+Element Dy:
+    formula: Dy
+    number: 66
+    period: 6
+    group: 3
+    color: '#1FFFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 20
+    _valance_configuration: 4f9.5_5s2_5p6_5d0.5_6s2
+    _ENMAX: 341.547
+    _is_recommended_potential: false
+
+Element Dy_3:
+    formula: Dy_3
+    number: 66
+    period: 6
+    group: 3
+    color: '#1FFFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 9
+    _valance_configuration: 5p6_5d1_6s2
+    _ENMAX: 155.713
+    _is_recommended_potential: true
+
+Element Dy_h:
+    formula: Dy_h
+    number: 66
+    period: 6
+    group: 3
+    color: '#1FFFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 20
+    _valance_configuration: 4f9.5_5s2_5p6_5d0.5_6s2
+    _ENMAX: 405.886
+    _is_recommended_potential: false
+
+Element Ho:
+    formula: Ho
+    number: 67
+    period: 6
+    group: 3
+    color: '#00FFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 21
+    _valance_configuration: 4f10.5_5s2_5p6_5d0.5_6s2
+    _ENMAX: 343.845
+    _is_recommended_potential: false
+
+Element Ho_3:
+    formula: Ho_3
+    number: 67
+    period: 6
+    group: 3
+    color: '#00FFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 9
+    _valance_configuration: 5p6_5d1_6s2
+    _ENMAX: 154.137
+    _is_recommended_potential: true
+
+Element Ho_h:
+    formula: Ho_h
+    number: 67
+    period: 6
+    group: 3
+    color: '#00FFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 21
+    _valance_configuration: 4f10.5_5s2_5p6_5d0.5_6s2
+    _ENMAX: 415.91
+    _is_recommended_potential: false
+
+Element Er:
+    formula: Er
+    number: 68
+    period: 6
+    group: 3
+    color: '#00E0C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 22
+    _valance_configuration: 4f11.5_5s2_5p6_5d0.5_6s2
+    _ENMAX: 346.295
+    _is_recommended_potential: false
+
+Element Er_2:
+    formula: Er_2
+    number: 68
+    period: 6
+    group: 3
+    color: '#00E0C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 8
+    _valance_configuration: 5p6_6s2
+    _ENMAX: 119.75
+    _is_recommended_potential: false
+
+Element Er_3:
+    formula: Er_3
+    number: 68
+    period: 6
+    group: 3
+    color: '#00E0C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 9
+    _valance_configuration: 5p6_5d1_6s2
+    _ENMAX: 155.037
+    _is_recommended_potential: true
+
+Element Er_h:
+    formula: Er_h
+    number: 68
+    period: 6
+    group: 3
+    color: '#00E0C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 22
+    _valance_configuration: 4f11.5_5s2_5p6_5d0.5_6s2
+    _ENMAX: 429.583
+    _is_recommended_potential: false
+
+Element Tm:
+    formula: Tm
+    number: 69
+    period: 6
+    group: 3
+    color: '#00C7C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 23
+    _valance_configuration: 4f12.5_5s2_5p6_5d0.5_6s2
+    _ENMAX: 344.206
+    _is_recommended_potential: false
+
+Element Tm_3:
+    formula: Tm_3
+    number: 69
+    period: 6
+    group: 3
+    color: '#00C7C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 9
+    _valance_configuration: 5p6_5d1_6s2
+    _ENMAX: 149.221
+    _is_recommended_potential: true
+
+Element Tm_h:
+    formula: Tm_h
+    number: 69
+    period: 6
+    group: 3
+    color: '#00C7C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 23
+    _valance_configuration: 4f12.5_5s2_5p6_5d0.5_6s2
+    _ENMAX: 419.812
+    _is_recommended_potential: false
+
+Element Yb:
+    formula: Yb
+    number: 70
+    period: 6
+    group: 3
+    color: '#00AFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 24
+    _valance_configuration: 4f13.5_5s2_5p6_5d0.5_6s2
+    _ENMAX: 344.312
+    _is_recommended_potential: false
+
+Element Yb_2:
+    formula: Yb_2
+    number: 70
+    period: 6
+    group: 3
+    color: '#00AFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 8
+    _valance_configuration: 5p6_6s2
+    _ENMAX: 112.578
+    _is_recommended_potential: true
+
+Element Yb_3:
+    formula: Yb_3
+    number: 70
+    period: 6
+    group: 3
+    color: '#00AFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 9
+    _valance_configuration: 5p6_5d1_6s2
+    _ENMAX: 188.359
+    _is_recommended_potential: false
+
+Element Yb_h:
+    formula: Yb_h
+    number: 70
+    period: 6
+    group: 3
+    color: '#00AFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 24
+    _valance_configuration: 4f13.5_5s2_5p6_5d0.5_6s2
+    _ENMAX: 409.285
+    _is_recommended_potential: false
+
+Element Lu:
+    formula: Lu
+    number: 71
+    period: 6
+    group: 3
+    color: '#0096C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 25
+    _valance_configuration: 4f14_5s2_5p6_5d1_6s2
+    _ENMAX: 255.695
+    _is_recommended_potential: false
+
+Element Lu_3:
+    formula: Lu_3
+    number: 71
+    period: 6
+    group: 3
+    color: '#0096C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 9
+    _valance_configuration: 5p6_5d1_6s2
+    _ENMAX: 154.992
+    _is_recommended_potential: true
+
+Element Hf:
+    formula: Hf
+    number: 72
+    period: 6
+    group: 4
+    color: '#007DC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 4
+    _valance_configuration: 5d3_6s1
+    _ENMAX: 220.334
+    _is_recommended_potential: false
+
+Element Hf_pv:
+    formula: Hf_pv
+    number: 72
+    period: 6
+    group: 4
+    color: '#007DC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 10
+    _valance_configuration: 5p6_5d3_6s1
+    _ENMAX: 220.334
+    _is_recommended_potential: true
+
+Element Hf_sv:
+    formula: Hf_sv
+    number: 72
+    period: 6
+    group: 4
+    color: '#007DC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 12
+    _valance_configuration: 5s2_5p6_5d4_6s1
+    _ENMAX: 237.444
+    _is_recommended_potential: false
+
+Element Ta:
+    formula: Ta
+    number: 73
+    period: 6
+    group: 5
+    color: '#0064C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 5
+    _valance_configuration: 5d4_6s1
+    _ENMAX: 223.667
+    _is_recommended_potential: false
+
+Element Ta_pv:
+    formula: Ta_pv
+    number: 73
+    period: 6
+    group: 5
+    color: '#0064C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 11
+    _valance_configuration: 5p6_5d4_6s1
+    _ENMAX: 223.667
+    _is_recommended_potential: true
+
+Element W:
+    formula: W
+    number: 74
+    period: 6
+    group: 6
+    color: '#004BC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 6
+    _valance_configuration: 5d5_6s1
+    _ENMAX: 223.057
+    _is_recommended_potential: false
+
+Element W_sv:
+    formula: W_sv
+    number: 74
+    period: 6
+    group: 6
+    color: '#004BC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 14
+    _valance_configuration: 5s2_5p6_5d5_6s1
+    _ENMAX: 223.057
+    _is_recommended_potential: true
+
+Element Re:
+    formula: Re
+    number: 75
+    period: 6
+    group: 7
+    color: '#0032C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 7
+    _valance_configuration: 5d6_6s1
+    _ENMAX: 226.216
+    _is_recommended_potential: true
+
+Element Re_pv:
+    formula: Re_pv
+    number: 75
+    period: 6
+    group: 7
+    color: '#0032C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 13
+    _valance_configuration: 5p6_5d6_6s1
+    _ENMAX: 226.216
+    _is_recommended_potential: false
+
+Element Os:
+    formula: Os
+    number: 76
+    period: 6
+    group: 8
+    color: '#0019C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 8
+    _valance_configuration: 5d7_6s1
+    _ENMAX: 228.022
+    _is_recommended_potential: false
+
+Element Os_pv:
+    formula: Os_pv
+    number: 76
+    period: 6
+    group: 8
+    color: '#0019C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 14
+    _valance_configuration: 5p6_5d7_6s1
+    _ENMAX: 228.022
+    _is_recommended_potential: true
+
+Element Ir:
+    formula: Ir
+    number: 77
+    period: 6
+    group: 9
+    color: '#0000C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 9
+    _valance_configuration: 5d8_6s1
+    _ENMAX: 210.864
+    _is_recommended_potential: true
+
+Element Pt:
+    formula: Pt
+    number: 78
+    period: 6
+    group: 10
+    color: '#D0D0FF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 10
+    _valance_configuration: 5d9_6s1
+    _ENMAX: 230.283
+    _is_recommended_potential: true
+
+Element Pt_pv:
+    formula: Pt_pv
+    number: 78
+    period: 6
+    group: 10
+    color: '#D0D0FF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 16
+    _valance_configuration: 5p6_5d9_6s1
+    _ENMAX: 294.607
+    _is_recommended_potential: false
+
+Element Au:
+    formula: Au
+    number: 79
+    period: 6
+    group: 11
+    color: '#FFD700'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 11
+    _valance_configuration: 5d10_6s1
+    _ENMAX: 229.943
+    _is_recommended_potential: true
+
+Element Hg:
+    formula: Hg
+    number: 80
+    period: 6
+    group: 12
+    color: '#B8B8D0'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 12
+    _valance_configuration: 5d10_6s2
+    _ENMAX: 233.204
+    _is_recommended_potential: true
+
+Element Tl:
+    formula: Tl
+    number: 81
+    period: 6
+    group: 13
+    color: '#A6544D'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 3
+    _valance_configuration: 6s2_6p1
+    _ENMAX: 90.14
+    _is_recommended_potential: false
+
+Element Tl_d:
+    formula: Tl_d
+    number: 81
+    period: 6
+    group: 13
+    color: '#A6544D'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 13
+    _valance_configuration: 5d10_6s2_6p1
+    _ENMAX: 237.053
+    _is_recommended_potential: true
+
+Element Pb:
+    formula: Pb
+    number: 82
+    period: 6
+    group: 14
+    color: '#575961'
+    _default_bonds:
+        Element H: 1.48
+        Element C: 1.88
+        Element N: 1.85
+        Element O: 1.81
+        Element F: 1.72
+        Element P: 2.19
+        Element S: 2.13
+        Element Cl: 2.09
+        Element Se: 2.29
+        Element Br: 2.25
+        Element Te: 2.52
+        Element I: 2.47
+    _valance_electrons: 4
+    _valance_configuration: 6s2_6p2
+    _ENMAX: 97.973
+    _is_recommended_potential: false
+
+Element Pb_d:
+    formula: Pb_d
+    number: 82
+    period: 6
+    group: 14
+    color: '#575961'
+    _default_bonds:
+        Element H: 1.48
+        Element C: 1.88
+        Element N: 1.85
+        Element O: 1.81
+        Element F: 1.72
+        Element P: 2.19
+        Element S: 2.13
+        Element Cl: 2.09
+        Element Se: 2.29
+        Element Br: 2.25
+        Element Te: 2.52
+        Element I: 2.47
+    _valance_electrons: 14
+    _valance_configuration: 5d10_6s2_6p2
+    _ENMAX: 237.835
+    _is_recommended_potential: true
+
+Element Bi:
+    formula: Bi
+    number: 83
+    period: 6
+    group: 15
+    color: '#9E4FB5'
+    _default_bonds:
+        Element H: 1.42
+        Element C: 1.87
+        Element N: 1.80
+        Element O: 1.77
+        Element F: 1.75
+        Element P: 2.20
+        Element S: 2.13
+        Element Cl: 2.09
+        Element Se: 2.29
+        Element Br: 2.25
+        Element Te: 2.52
+        Element I: 2.47
+    _valance_electrons: 5
+    _valance_configuration: 6s2_6p3
+    _ENMAX: 105.037
+    _is_recommended_potential: false
+
+Element Bi_d:
+    formula: Bi_d
+    number: 83
+    period: 6
+    group: 15
+    color: '#9E4FB5'
+    _default_bonds:
+        Element H: 1.42
+        Element C: 1.87
+        Element N: 1.80
+        Element O: 1.77
+        Element F: 1.75
+        Element P: 2.20
+        Element S: 2.13
+        Element Cl: 2.09
+        Element Se: 2.29
+        Element Br: 2.25
+        Element Te: 2.52
+        Element I: 2.47
+    _valance_electrons: 15
+    _valance_configuration: 5d10_6s2_6p3
+    _ENMAX: 242.839
+    _is_recommended_potential: true
+
+Element Po:
+    formula: Po
+    number: 84
+    period: 6
+    group: 16
+    color: '#AB5C00'
+    _default_bonds:
+        Element H: 1.36
+        Element C: 1.81
+        Element N: 1.74
+        Element O: 1.71
+        Element F: 1.69
+        Element P: 2.13
+        Element S: 2.07
+        Element Cl: 2.03
+        Element Se: 2.23
+        Element Br: 2.19
+        Element Te: 2.46
+        Element I: 2.41
+    _valance_electrons: 6
+    _valance_configuration: 6s2_6p4
+    _ENMAX: 159.707
+    _is_recommended_potential: false
+
+Element Po_d:
+    formula: Po_d
+    number: 84
+    period: 6
+    group: 16
+    color: '#AB5C00'
+    _default_bonds:
+        Element H: 1.36
+        Element C: 1.81
+        Element N: 1.74
+        Element O: 1.71
+        Element F: 1.69
+        Element P: 2.13
+        Element S: 2.07
+        Element Cl: 2.03
+        Element Se: 2.23
+        Element Br: 2.19
+        Element Te: 2.46
+        Element I: 2.41
+    _valance_electrons: 16
+    _valance_configuration: 5d10_6s2_6p4
+    _ENMAX: 264.565
+    _is_recommended_potential: true
+
+Element At:
+    formula: At
+    number: 85
+    period: 6
+    group: 17
+    color: '#75445B'
+    _default_bonds:
+        Element H: 1.27
+        Element C: 1.77
+        Element N: 1.70
+        Element O: 1.67
+        Element F: 1.65
+        Element P: 2.09
+        Element S: 2.03
+        Element Cl: 1.99
+        Element Se: 2.19
+        Element Br: 2.15
+        Element Te: 2.42
+        Element I: 2.37
+    _valance_electrons: 7
+    _valance_configuration: 6s2_6p5
+    _ENMAX: 161.43
+    _is_recommended_potential: true
+
+Element Rn:
+    formula: Rn
+    number: 86
+    period: 6
+    group: 18
+    color: '#428296'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+    _valance_electrons: 8
+    _valance_configuration: 6s2_6p6
+    _ENMAX: 151.497
+    _is_recommended_potential: true
+
+Element Fr_sv:
+    formula: Fr_sv
+    number: 87
+    period: 7
+    group: 1
+    color: '#420066'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 9
+    _valance_configuration: 6s2_6p6_7s1
+    _ENMAX: 214.54
+    _is_recommended_potential: true
+
+Element Ra_sv:
+    formula: Ra_sv
+    number: 88
+    period: 7
+    group: 2
+    color: '#007D00'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 10
+    _valance_configuration: 6s2_6p6_7s2
+    _ENMAX: 237.367
+    _is_recommended_potential: true
+
+Element Ac:
+    formula: Ac
+    number: 89
+    period: 7
+    group: 3
+    color: '#70ABFA'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 11
+    _valance_configuration: 6s2_6p6_6d1_7s2
+    _ENMAX: 172.351
+    _is_recommended_potential: true
+
+Element Th:
+    formula: Th
+    number: 90
+    period: 7
+    group: 3
+    color: '#00BAFF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 12
+    _valance_configuration: 5f1_6s2_6p6_6d1_7s2
+    _ENMAX: 247.306
+    _is_recommended_potential: true
+
+Element Th_s:
+    formula: Th_s
+    number: 90
+    period: 7
+    group: 3
+    color: '#00BAFF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 10
+    _valance_configuration: 5f1_6p6_6d1_7s2
+    _ENMAX: 169.363
+    _is_recommended_potential: false
+
+Element Pa:
+    formula: Pa
+    number: 91
+    period: 7
+    group: 3
+    color: '#00A3FF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 13
+    _valance_configuration: 5f1_6s2_6p6_6d2_7s2
+    _ENMAX: 252.193
+    _is_recommended_potential: true
+
+Element Pa_s:
+    formula: Pa_s
+    number: 91
+    period: 7
+    group: 3
+    color: '#00A3FF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 11
+    _valance_configuration: 5f1_6p6_6d2_7s2
+    _ENMAX: 193.466
+    _is_recommended_potential: false
+
+Element U:
+    formula: U
+    number: 92
+    period: 7
+    group: 3
+    color: '#008FFF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 14
+    _valance_configuration: 5f2_6s2_6p6_6d2_7s2
+    _ENMAX: 252.502
+    _is_recommended_potential: true
+
+Element U_s:
+    formula: U_s
+    number: 92
+    period: 7
+    group: 3
+    color: '#008FFF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 14
+    _valance_configuration: 5f2_6s2_6p6_6d2_7s2
+    _ENMAX: 209.23
+    _is_recommended_potential: false
+
+Element Np:
+    formula: Np
+    number: 93
+    period: 7
+    group: 3
+    color: '#007BFF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 15
+    _valance_configuration: 5f3_6s2_6p6_6d2_7s2
+    _ENMAX: 254.26
+    _is_recommended_potential: true
+
+Element Np_s:
+    formula: Np_s
+    number: 93
+    period: 7
+    group: 3
+    color: '#007BFF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 15
+    _valance_configuration: 5f3_6s2_6p6_6d2_7s2
+    _ENMAX: 207.713
+    _is_recommended_potential: false
+
+Element Pu:
+    formula: Pu
+    number: 94
+    period: 7
+    group: 3
+    color: '#0067FF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 16
+    _valance_configuration: 5f4_6s2_6p6_6d2_7s2
+    _ENMAX: 254.353
+    _is_recommended_potential: true
+
+Element Pu_s:
+    formula: Pu_s
+    number: 94
+    period: 7
+    group: 3
+    color: '#0067FF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 16
+    _valance_configuration: 5f4_6s2_6p6_6d2_7s2
+    _ENMAX: 207.83
+    _is_recommended_potential: false
+
+Element Am:
+    formula: Am
+    number: 95
+    period: 7
+    group: 3
+    color: '#0053FF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 17
+    _valance_configuration: 5f5_6s2_6p6_6d2_7s2
+    _ENMAX: 255.875
+    _is_recommended_potential: true
+
+Element Cm:
+    formula: Cm
+    number: 96
+    period: 7
+    group: 3
+    color: '#003FFF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 18
+    _valance_configuration: 5f6_6s2_6p6_6d2_7s2
+    _ENMAX: 257.953
+    _is_recommended_potential: true
+
+Element Cf:
+    formula: Cf
+    number: 98
+    period: 7
+    group: 3
+    color: '#002BFF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+    _valance_electrons: 20
+    _valance_configuration: 5f8_6s2_6p6_6d2_7s2
+    _ENMAX: 414.614
+    _is_recommended_potential: true
+

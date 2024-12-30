@@ -1,0 +1,5135 @@
+Element H:
+    formula: H
+    number: 1
+    period: 1
+    group: 1
+    color: '#FFFFFF'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+
+
+
+
+
+Element H.25:
+    formula: H.25
+    number: 1
+    period: 1
+    group: 1
+    color: '#FFFFFF'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+
+
+
+
+
+Element H.33:
+    formula: H.33
+    number: 1
+    period: 1
+    group: 1
+    color: '#FFFFFF'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+
+
+
+
+
+Element H.42:
+    formula: H.42
+    number: 1
+    period: 1
+    group: 1
+    color: '#FFFFFF'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+
+
+
+
+
+Element H.5:
+    formula: H.5
+    number: 1
+    period: 1
+    group: 1
+    color: '#FFFFFF'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+
+
+
+
+
+Element H.58:
+    formula: H.58
+    number: 1
+    period: 1
+    group: 1
+    color: '#FFFFFF'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+
+
+
+
+
+Element H.66:
+    formula: H.66
+    number: 1
+    period: 1
+    group: 1
+    color: '#FFFFFF'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+
+
+
+
+
+Element H.75:
+    formula: H.75
+    number: 1
+    period: 1
+    group: 1
+    color: '#FFFFFF'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+
+
+
+
+
+Element H1.25:
+    formula: H1.25
+    number: 1
+    period: 1
+    group: 1
+    color: '#FFFFFF'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+
+
+
+
+
+Element H1.33:
+    formula: H1.33
+    number: 1
+    period: 1
+    group: 1
+    color: '#FFFFFF'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+
+
+
+
+
+Element H1.5:
+    formula: H1.5
+    number: 1
+    period: 1
+    group: 1
+    color: '#FFFFFF'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+
+
+
+
+
+Element H1.66:
+    formula: H1.66
+    number: 1
+    period: 1
+    group: 1
+    color: '#FFFFFF'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+
+
+
+
+
+Element H1.75:
+    formula: H1.75
+    number: 1
+    period: 1
+    group: 1
+    color: '#FFFFFF'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+
+
+
+
+
+Element H_AE:
+    formula: H_AE
+    number: 1
+    period: 1
+    group: 1
+    color: '#FFFFFF'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+
+
+
+
+
+Element H_h:
+    formula: H_h
+    number: 1
+    period: 1
+    group: 1
+    color: '#FFFFFF'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+
+
+
+
+
+Element H_s:
+    formula: H_s
+    number: 1
+    period: 1
+    group: 1
+    color: '#FFFFFF'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+
+
+
+
+
+Element He:
+    formula: He
+    number: 2
+    period: 1
+    group: 18
+    color: '#D9FFFF'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+
+
+
+
+
+Element He_AE:
+    formula: He_AE
+    number: 2
+    period: 1
+    group: 18
+    color: '#D9FFFF'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+
+
+
+
+
+Element Li:
+    formula: Li
+    number: 3
+    period: 2
+    group: 1
+    color: '#CC80FF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Li_sv:
+    formula: Li_sv
+    number: 3
+    period: 2
+    group: 1
+    color: '#CC80FF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Be:
+    formula: Be
+    number: 4
+    period: 2
+    group: 2
+    color: '#C2FF00'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Be_sv:
+    formula: Be_sv
+    number: 4
+    period: 2
+    group: 2
+    color: '#C2FF00'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element B:
+    formula: B
+    number: 5
+    period: 2
+    group: 13
+    color: '#FFB5B5'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element B_h:
+    formula: B_h
+    number: 5
+    period: 2
+    group: 13
+    color: '#FFB5B5'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element B_s:
+    formula: B_s
+    number: 5
+    period: 2
+    group: 13
+    color: '#FFB5B5'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element C:
+    formula: C
+    number: 6
+    period: 2
+    group: 14
+    color: '#909090'
+    _default_bonds:
+        Element H: 1.09
+        Element C: 1.54
+        Element N: 1.47
+        Element O: 1.43
+        Element F: 1.35
+        Element P: 1.87
+        Element S: 1.81
+        Element Cl: 1.77
+        Element Se: 1.98
+        Element Br: 1.94
+        Element Te: 2.21
+        Element I: 2.16
+
+
+
+
+
+Element C_h:
+    formula: C_h
+    number: 6
+    period: 2
+    group: 14
+    color: '#909090'
+    _default_bonds:
+        Element H: 1.09
+        Element C: 1.54
+        Element N: 1.47
+        Element O: 1.43
+        Element F: 1.35
+        Element P: 1.87
+        Element S: 1.81
+        Element Cl: 1.77
+        Element Se: 1.98
+        Element Br: 1.94
+        Element Te: 2.21
+        Element I: 2.16
+
+
+
+
+
+Element C_s:
+    formula: C_s
+    number: 6
+    period: 2
+    group: 14
+    color: '#909090'
+    _default_bonds:
+        Element H: 1.09
+        Element C: 1.54
+        Element N: 1.47
+        Element O: 1.43
+        Element F: 1.35
+        Element P: 1.87
+        Element S: 1.81
+        Element Cl: 1.77
+        Element Se: 1.98
+        Element Br: 1.94
+        Element Te: 2.21
+        Element I: 2.16
+
+
+
+
+
+Element N:
+    formula: N
+    number: 7
+    period: 2
+    group: 15
+    color: '#3050F8'
+    _default_bonds:
+        Element H: 1.01
+        Element C: 1.47
+        Element N: 1.45
+        Element O: 1.40
+        Element F: 1.33
+        Element P: 1.80
+        Element S: 1.74
+        Element Cl: 1.70
+        Element Se: 1.90
+        Element Br: 1.86
+        Element Te: 2.13
+        Element I: 2.08
+
+
+
+
+
+Element N_h:
+    formula: N_h
+    number: 7
+    period: 2
+    group: 15
+    color: '#3050F8'
+    _default_bonds:
+        Element H: 1.01
+        Element C: 1.47
+        Element N: 1.45
+        Element O: 1.40
+        Element F: 1.33
+        Element P: 1.80
+        Element S: 1.74
+        Element Cl: 1.70
+        Element Se: 1.90
+        Element Br: 1.86
+        Element Te: 2.13
+        Element I: 2.08
+
+
+
+
+
+Element N_s:
+    formula: N_s
+    number: 7
+    period: 2
+    group: 15
+    color: '#3050F8'
+    _default_bonds:
+        Element H: 1.01
+        Element C: 1.47
+        Element N: 1.45
+        Element O: 1.40
+        Element F: 1.33
+        Element P: 1.80
+        Element S: 1.74
+        Element Cl: 1.70
+        Element Se: 1.90
+        Element Br: 1.86
+        Element Te: 2.13
+        Element I: 2.08
+
+
+
+
+
+Element O:
+    formula: O
+    number: 8
+    period: 2
+    group: 16
+    color: '#FF0D0D'
+    _default_bonds:
+        Element H: 0.96
+        Element C: 1.43
+        Element N: 1.40
+        Element O: 1.48
+        Element F: 1.42
+        Element P: 1.77
+        Element S: 1.71
+        Element Cl: 1.67
+        Element Se: 1.87
+        Element Br: 1.83
+        Element Te: 2.10
+        Element I: 2.05
+
+
+
+
+
+Element O_h:
+    formula: O_h
+    number: 8
+    period: 2
+    group: 16
+    color: '#FF0D0D'
+    _default_bonds:
+        Element H: 0.96
+        Element C: 1.43
+        Element N: 1.40
+        Element O: 1.48
+        Element F: 1.42
+        Element P: 1.77
+        Element S: 1.71
+        Element Cl: 1.67
+        Element Se: 1.87
+        Element Br: 1.83
+        Element Te: 2.10
+        Element I: 2.05
+
+
+
+
+
+Element O_s:
+    formula: O_s
+    number: 8
+    period: 2
+    group: 16
+    color: '#FF0D0D'
+    _default_bonds:
+        Element H: 0.96
+        Element C: 1.43
+        Element N: 1.40
+        Element O: 1.48
+        Element F: 1.42
+        Element P: 1.77
+        Element S: 1.71
+        Element Cl: 1.67
+        Element Se: 1.87
+        Element Br: 1.83
+        Element Te: 2.10
+        Element I: 2.05
+
+
+
+
+
+Element F:
+    formula: F
+    number: 9
+    period: 2
+    group: 17
+    color: '#90E050'
+    _default_bonds:
+        Element H: 0.92
+        Element C: 1.35
+        Element N: 1.33
+        Element O: 1.42
+        Element F: 1.42
+        Element P: 1.75
+        Element S: 1.69
+        Element Cl: 1.65
+        Element Se: 1.85
+        Element Br: 1.81
+        Element Te: 2.08
+        Element I: 2.03
+
+
+
+
+
+Element F_h:
+    formula: F_h
+    number: 9
+    period: 2
+    group: 17
+    color: '#90E050'
+    _default_bonds:
+        Element H: 0.92
+        Element C: 1.35
+        Element N: 1.33
+        Element O: 1.42
+        Element F: 1.42
+        Element P: 1.75
+        Element S: 1.69
+        Element Cl: 1.65
+        Element Se: 1.85
+        Element Br: 1.81
+        Element Te: 2.08
+        Element I: 2.03
+
+
+
+
+
+Element F_s:
+    formula: F_s
+    number: 9
+    period: 2
+    group: 17
+    color: '#90E050'
+    _default_bonds:
+        Element H: 0.92
+        Element C: 1.35
+        Element N: 1.33
+        Element O: 1.42
+        Element F: 1.42
+        Element P: 1.75
+        Element S: 1.69
+        Element Cl: 1.65
+        Element Se: 1.85
+        Element Br: 1.81
+        Element Te: 2.08
+        Element I: 2.03
+
+
+
+
+
+Element Ne:
+    formula: Ne
+    number: 10
+    period: 2
+    group: 18
+    color: '#B3E3F5'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+
+
+
+
+
+Element Na:
+    formula: Na
+    number: 11
+    period: 3
+    group: 1
+    color: '#AB5CF2'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Na_pv:
+    formula: Na_pv
+    number: 11
+    period: 3
+    group: 1
+    color: '#AB5CF2'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Na_sv:
+    formula: Na_sv
+    number: 11
+    period: 3
+    group: 1
+    color: '#AB5CF2'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Mg:
+    formula: Mg
+    number: 12
+    period: 3
+    group: 2
+    color: '#8AFF00'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Mg_pv:
+    formula: Mg_pv
+    number: 12
+    period: 3
+    group: 2
+    color: '#8AFF00'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Mg_sv:
+    formula: Mg_sv
+    number: 12
+    period: 3
+    group: 2
+    color: '#8AFF00'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Al:
+    formula: Al
+    number: 13
+    period: 3
+    group: 13
+    color: '#BFA6A6'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Si:
+    formula: Si
+    number: 14
+    period: 3
+    group: 14
+    color: '#F0C8A0'
+    _default_bonds:
+        Element H: 1.48
+        Element C: 1.88
+        Element N: 1.85
+        Element O: 1.81
+        Element F: 1.72
+        Element P: 2.19
+        Element S: 2.13
+        Element Cl: 2.09
+        Element Se: 2.29
+        Element Br: 2.25
+        Element Te: 2.52
+        Element I: 2.47
+
+
+
+
+
+Element P:
+    formula: P
+    number: 15
+    period: 3
+    group: 15
+    color: '#FF8000'
+    _default_bonds:
+        Element H: 1.42
+        Element C: 1.87
+        Element N: 1.80
+        Element O: 1.77
+        Element F: 1.75
+        Element P: 2.20
+        Element S: 2.13
+        Element Cl: 2.09
+        Element Se: 2.29
+        Element Br: 2.25
+        Element Te: 2.52
+        Element I: 2.47
+
+
+
+
+
+Element P_h:
+    formula: P_h
+    number: 15
+    period: 3
+    group: 15
+    color: '#FF8000'
+    _default_bonds:
+        Element H: 1.42
+        Element C: 1.87
+        Element N: 1.80
+        Element O: 1.77
+        Element F: 1.75
+        Element P: 2.20
+        Element S: 2.13
+        Element Cl: 2.09
+        Element Se: 2.29
+        Element Br: 2.25
+        Element Te: 2.52
+        Element I: 2.47
+
+
+
+
+
+Element S:
+    formula: S
+    number: 16
+    period: 3
+    group: 16
+    color: '#FFFF30'
+    _default_bonds:
+        Element H: 1.36
+        Element C: 1.81
+        Element N: 1.74
+        Element O: 1.71
+        Element F: 1.69
+        Element P: 2.13
+        Element S: 2.07
+        Element Cl: 2.03
+        Element Se: 2.23
+        Element Br: 2.19
+        Element Te: 2.46
+        Element I: 2.41
+
+
+
+
+
+Element S_h:
+    formula: S_h
+    number: 16
+    period: 3
+    group: 16
+    color: '#FFFF30'
+    _default_bonds:
+        Element H: 1.36
+        Element C: 1.81
+        Element N: 1.74
+        Element O: 1.71
+        Element F: 1.69
+        Element P: 2.13
+        Element S: 2.07
+        Element Cl: 2.03
+        Element Se: 2.23
+        Element Br: 2.19
+        Element Te: 2.46
+        Element I: 2.41
+
+
+
+
+
+Element Cl:
+    formula: Cl
+    number: 17
+    period: 3
+    group: 17
+    color: '#1FF01F'
+    _default_bonds:
+        Element H: 1.27
+        Element C: 1.77
+        Element N: 1.70
+        Element O: 1.67
+        Element F: 1.65
+        Element P: 2.09
+        Element S: 2.03
+        Element Cl: 1.99
+        Element Se: 2.19
+        Element Br: 2.15
+        Element Te: 2.42
+        Element I: 2.37
+
+
+
+
+
+Element Cl_h:
+    formula: Cl_h
+    number: 17
+    period: 3
+    group: 17
+    color: '#1FF01F'
+    _default_bonds:
+        Element H: 1.27
+        Element C: 1.77
+        Element N: 1.70
+        Element O: 1.67
+        Element F: 1.65
+        Element P: 2.09
+        Element S: 2.03
+        Element Cl: 1.99
+        Element Se: 2.19
+        Element Br: 2.15
+        Element Te: 2.42
+        Element I: 2.37
+
+
+
+
+
+Element Ar:
+    formula: Ar
+    number: 18
+    period: 3
+    group: 18
+    color: '#80D1E3'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+
+
+
+
+
+Element K_pv:
+    formula: K_pv
+    number: 19
+    period: 4
+    group: 1
+    color: '#8F40D4'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element K_sv:
+    formula: K_sv
+    number: 19
+    period: 4
+    group: 1
+    color: '#8F40D4'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Ca_pv:
+    formula: Ca_pv
+    number: 20
+    period: 4
+    group: 2
+    color: '#3DFF00'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Ca_sv:
+    formula: Ca_sv
+    number: 20
+    period: 4
+    group: 2
+    color: '#3DFF00'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Sc:
+    formula: Sc
+    number: 21
+    period: 4
+    group: 3
+    color: '#E6E6E6'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Sc_sv:
+    formula: Sc_sv
+    number: 21
+    period: 4
+    group: 3
+    color: '#E6E6E6'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Ti:
+    formula: Ti
+    number: 22
+    period: 4
+    group: 4
+    color: '#BFC2C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Ti_pv:
+    formula: Ti_pv
+    number: 22
+    period: 4
+    group: 4
+    color: '#BFC2C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Ti_sv:
+    formula: Ti_sv
+    number: 22
+    period: 4
+    group: 4
+    color: '#BFC2C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element V:
+    formula: V
+    number: 23
+    period: 4
+    group: 5
+    color: '#A6A6AB'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element V_pv:
+    formula: V_pv
+    number: 23
+    period: 4
+    group: 5
+    color: '#A6A6AB'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element V_sv:
+    formula: V_sv
+    number: 23
+    period: 4
+    group: 5
+    color: '#A6A6AB'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Cr:
+    formula: Cr
+    number: 24
+    period: 4
+    group: 6
+    color: '#8A99C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Cr_pv:
+    formula: Cr_pv
+    number: 24
+    period: 4
+    group: 6
+    color: '#8A99C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Cr_sv:
+    formula: Cr_sv
+    number: 24
+    period: 4
+    group: 6
+    color: '#8A99C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Mn:
+    formula: Mn
+    number: 25
+    period: 4
+    group: 7
+    color: '#9C7AC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Mn_pv:
+    formula: Mn_pv
+    number: 25
+    period: 4
+    group: 7
+    color: '#9C7AC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Mn_sv:
+    formula: Mn_sv
+    number: 25
+    period: 4
+    group: 7
+    color: '#9C7AC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Fe:
+    formula: Fe
+    number: 26
+    period: 4
+    group: 8
+    color: '#E06633'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Fe_pv:
+    formula: Fe_pv
+    number: 26
+    period: 4
+    group: 8
+    color: '#E06633'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Fe_sv:
+    formula: Fe_sv
+    number: 26
+    period: 4
+    group: 8
+    color: '#E06633'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Co:
+    formula: Co
+    number: 27
+    period: 4
+    group: 9
+    color: '#F090A0'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Co_pv:
+    formula: Co_pv
+    number: 27
+    period: 4
+    group: 9
+    color: '#F090A0'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Co_sv:
+    formula: Co_sv
+    number: 27
+    period: 4
+    group: 9
+    color: '#F090A0'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Ni:
+    formula: Ni
+    number: 28
+    period: 4
+    group: 10
+    color: '#50D050'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Ni_pv:
+    formula: Ni_pv
+    number: 28
+    period: 4
+    group: 10
+    color: '#50D050'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Cu:
+    formula: Cu
+    number: 29
+    period: 4
+    group: 11
+    color: '#C88033'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Cu_pv:
+    formula: Cu_pv
+    number: 29
+    period: 4
+    group: 11
+    color: '#C88033'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Zn:
+    formula: Zn
+    number: 30
+    period: 4
+    group: 12
+    color: '#7D80B0'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Ga:
+    formula: Ga
+    number: 31
+    period: 4
+    group: 13
+    color: '#C28F8F'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Ga_d:
+    formula: Ga_d
+    number: 31
+    period: 4
+    group: 13
+    color: '#C28F8F'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Ga_h:
+    formula: Ga_h
+    number: 31
+    period: 4
+    group: 13
+    color: '#C28F8F'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Ge:
+    formula: Ge
+    number: 32
+    period: 4
+    group: 14
+    color: '#668F8F'
+    _default_bonds:
+        Element H: 1.48
+        Element C: 1.88
+        Element N: 1.85
+        Element O: 1.81
+        Element F: 1.72
+        Element P: 2.19
+        Element S: 2.13
+        Element Cl: 2.09
+        Element Se: 2.29
+        Element Br: 2.25
+        Element Te: 2.52
+        Element I: 2.47
+
+
+
+
+
+Element Ge_d:
+    formula: Ge_d
+    number: 32
+    period: 4
+    group: 14
+    color: '#668F8F'
+    _default_bonds:
+        Element H: 1.48
+        Element C: 1.88
+        Element N: 1.85
+        Element O: 1.81
+        Element F: 1.72
+        Element P: 2.19
+        Element S: 2.13
+        Element Cl: 2.09
+        Element Se: 2.29
+        Element Br: 2.25
+        Element Te: 2.52
+        Element I: 2.47
+
+
+
+
+
+Element Ge_h:
+    formula: Ge_h
+    number: 32
+    period: 4
+    group: 14
+    color: '#668F8F'
+    _default_bonds:
+        Element H: 1.48
+        Element C: 1.88
+        Element N: 1.85
+        Element O: 1.81
+        Element F: 1.72
+        Element P: 2.19
+        Element S: 2.13
+        Element Cl: 2.09
+        Element Se: 2.29
+        Element Br: 2.25
+        Element Te: 2.52
+        Element I: 2.47
+
+
+
+
+
+Element As:
+    formula: As
+    number: 33
+    period: 4
+    group: 15
+    color: '#BD80E3'
+    _default_bonds:
+        Element H: 1.42
+        Element C: 1.87
+        Element N: 1.80
+        Element O: 1.77
+        Element F: 1.75
+        Element P: 2.20
+        Element S: 2.13
+        Element Cl: 2.09
+        Element Se: 2.29
+        Element Br: 2.25
+        Element Te: 2.52
+        Element I: 2.47
+
+
+
+
+
+Element As_d:
+    formula: As_d
+    number: 33
+    period: 4
+    group: 15
+    color: '#BD80E3'
+    _default_bonds:
+        Element H: 1.42
+        Element C: 1.87
+        Element N: 1.80
+        Element O: 1.77
+        Element F: 1.75
+        Element P: 2.20
+        Element S: 2.13
+        Element Cl: 2.09
+        Element Se: 2.29
+        Element Br: 2.25
+        Element Te: 2.52
+        Element I: 2.47
+
+
+
+
+
+Element Se:
+    formula: Se
+    number: 34
+    period: 4
+    group: 16
+    color: '#FFA100'
+    _default_bonds:
+        Element H: 1.36
+        Element C: 1.81
+        Element N: 1.74
+        Element O: 1.71
+        Element F: 1.69
+        Element P: 2.13
+        Element S: 2.07
+        Element Cl: 2.03
+        Element Se: 2.23
+        Element Br: 2.19
+        Element Te: 2.46
+        Element I: 2.41
+
+
+
+
+
+Element Br:
+    formula: Br
+    number: 35
+    period: 4
+    group: 17
+    color: '#A62929'
+    _default_bonds:
+        Element H: 1.27
+        Element C: 1.77
+        Element N: 1.70
+        Element O: 1.67
+        Element F: 1.65
+        Element P: 2.09
+        Element S: 2.03
+        Element Cl: 1.99
+        Element Se: 2.19
+        Element Br: 2.15
+        Element Te: 2.42
+        Element I: 2.37
+
+
+
+
+
+Element Kr:
+    formula: Kr
+    number: 36
+    period: 4
+    group: 18
+    color: '#5CB8D1'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+
+
+
+
+
+Element Rb_pv:
+    formula: Rb_pv
+    number: 37
+    period: 5
+    group: 1
+    color: '#702EB0'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Rb_sv:
+    formula: Rb_sv
+    number: 37
+    period: 5
+    group: 1
+    color: '#702EB0'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Sr_sv:
+    formula: Sr_sv
+    number: 38
+    period: 5
+    group: 2
+    color: '#00FF00'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Y_sv:
+    formula: Y_sv
+    number: 39
+    period: 5
+    group: 3
+    color: '#94FFFF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Zr_sv:
+    formula: Zr_sv
+    number: 40
+    period: 5
+    group: 4
+    color: '#94E0E0'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Nb_pv:
+    formula: Nb_pv
+    number: 41
+    period: 5
+    group: 5
+    color: '#73C2C9'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Nb_sv:
+    formula: Nb_sv
+    number: 41
+    period: 5
+    group: 5
+    color: '#73C2C9'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Mo:
+    formula: Mo
+    number: 42
+    period: 5
+    group: 6
+    color: '#54B5B5'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Mo_pv:
+    formula: Mo_pv
+    number: 42
+    period: 5
+    group: 6
+    color: '#54B5B5'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Mo_sv:
+    formula: Mo_sv
+    number: 42
+    period: 5
+    group: 6
+    color: '#54B5B5'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+Element Tc:
+    formula: Tc
+    number: 43
+    period: 5
+    group: 7
+    color: '#3B9E9E'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Tc_pv:
+    formula: Tc_pv
+    number: 43
+    period: 5
+    group: 7
+    color: '#3B9E9E'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Tc_sv:
+    formula: Tc_sv
+    number: 43
+    period: 5
+    group: 7
+    color: '#3B9E9E'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Ru:
+    formula: Ru
+    number: 44
+    period: 5
+    group: 8
+    color: '#248F8F'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Ru_pv:
+    formula: Ru_pv
+    number: 44
+    period: 5
+    group: 8
+    color: '#248F8F'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Ru_sv:
+    formula: Ru_sv
+    number: 44
+    period: 5
+    group: 8
+    color: '#248F8F'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Rh:
+    formula: Rh
+    number: 45
+    period: 5
+    group: 9
+    color: '#0A7D8C'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Rh_pv:
+    formula: Rh_pv
+    number: 45
+    period: 5
+    group: 9
+    color: '#0A7D8C'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Pd:
+    formula: Pd
+    number: 46
+    period: 5
+    group: 10
+    color: '#006985'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Pd_pv:
+    formula: Pd_pv
+    number: 46
+    period: 5
+    group: 10
+    color: '#006985'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Ag:
+    formula: Ag
+    number: 47
+    period: 5
+    group: 11
+    color: '#C0C0C0'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Ag_pv:
+    formula: Ag_pv
+    number: 47
+    period: 5
+    group: 11
+    color: '#C0C0C0'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Cd:
+    formula: Cd
+    number: 48
+    period: 5
+    group: 12
+    color: '#FFD98F'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element In:
+    formula: In
+    number: 49
+    period: 5
+    group: 13
+    color: '#A67573'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element In_d:
+    formula: In_d
+    number: 49
+    period: 5
+    group: 13
+    color: '#A67573'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Sn:
+    formula: Sn
+    number: 50
+    period: 5
+    group: 14
+    color: '#668080'
+    _default_bonds:
+        Element H: 1.48
+        Element C: 1.88
+        Element N: 1.85
+        Element O: 1.81
+        Element F: 1.72
+        Element P: 2.19
+        Element S: 2.13
+        Element Cl: 2.09
+        Element Se: 2.29
+        Element Br: 2.25
+        Element Te: 2.52
+        Element I: 2.47
+
+
+
+
+
+Element Sn_d:
+    formula: Sn_d
+    number: 50
+    period: 5
+    group: 14
+    color: '#668080'
+    _default_bonds:
+        Element H: 1.48
+        Element C: 1.88
+        Element N: 1.85
+        Element O: 1.81
+        Element F: 1.72
+        Element P: 2.19
+        Element S: 2.13
+        Element Cl: 2.09
+        Element Se: 2.29
+        Element Br: 2.25
+        Element Te: 2.52
+        Element I: 2.47
+
+
+
+
+
+Element Sb:
+    formula: Sb
+    number: 51
+    period: 5
+    group: 15
+    color: '#9E63B5'
+    _default_bonds:
+        Element H: 1.42
+        Element C: 1.87
+        Element N: 1.80
+        Element O: 1.77
+        Element F: 1.75
+        Element P: 2.20
+        Element S: 2.13
+        Element Cl: 2.09
+        Element Se: 2.29
+        Element Br: 2.25
+        Element Te: 2.52
+        Element I: 2.47
+
+
+
+
+
+Element Te:
+    formula: Te
+    number: 52
+    period: 5
+    group: 16
+    color: '#D47A00'
+    _default_bonds:
+        Element H: 1.36
+        Element C: 1.81
+        Element N: 1.74
+        Element O: 1.71
+        Element F: 1.69
+        Element P: 2.13
+        Element S: 2.07
+        Element Cl: 2.03
+        Element Se: 2.23
+        Element Br: 2.19
+        Element Te: 2.46
+        Element I: 2.41
+
+
+
+
+
+Element I:
+    formula: I
+    number: 53
+    period: 5
+    group: 17
+    color: '#940094'
+    _default_bonds:
+        Element H: 1.27
+        Element C: 1.77
+        Element N: 1.70
+        Element O: 1.67
+        Element F: 1.65
+        Element P: 2.09
+        Element S: 2.03
+        Element Cl: 1.99
+        Element Se: 2.19
+        Element Br: 2.15
+        Element Te: 2.42
+        Element I: 2.37
+
+
+
+
+
+Element Xe:
+    formula: Xe
+    number: 54
+    period: 5
+    group: 18
+    color: '#429EB0'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+
+
+
+
+
+Element Cs_sv:
+    formula: Cs_sv
+    number: 55
+    period: 6
+    group: 1
+    color: '#57178F'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Ba_sv:
+    formula: Ba_sv
+    number: 56
+    period: 6
+    group: 2
+    color: '#00C900'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element La:
+    formula: La
+    number: 57
+    period: 6
+    group: 3
+    color: '#70D4FF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element La_s:
+    formula: La_s
+    number: 57
+    period: 6
+    group: 3
+    color: '#70D4FF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Ce:
+    formula: Ce
+    number: 58
+    period: 6
+    group: 3
+    color: '#FFFFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Ce_3:
+    formula: Ce_3
+    number: 58
+    period: 6
+    group: 3
+    color: '#FFFFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Ce_h:
+    formula: Ce_h
+    number: 58
+    period: 6
+    group: 3
+    color: '#FFFFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Pr:
+    formula: Pr
+    number: 59
+    period: 6
+    group: 3
+    color: '#D9FFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Pr_3:
+    formula: Pr_3
+    number: 59
+    period: 6
+    group: 3
+    color: '#D9FFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Pr_h:
+    formula: Pr_h
+    number: 59
+    period: 6
+    group: 3
+    color: '#D9FFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Nd:
+    formula: Nd
+    number: 60
+    period: 6
+    group: 3
+    color: '#C7FFA7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Nd_3:
+    formula: Nd_3
+    number: 60
+    period: 6
+    group: 3
+    color: '#C7FFA7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Nd_h:
+    formula: Nd_h
+    number: 60
+    period: 6
+    group: 3
+    color: '#C7FFA7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Pm:
+    formula: Pm
+    number: 61
+    period: 6
+    group: 3
+    color: '#A3FFC2'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Pm_3:
+    formula: Pm_3
+    number: 61
+    period: 6
+    group: 3
+    color: '#A3FFC2'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Pm_h:
+    formula: Pm_h
+    number: 61
+    period: 6
+    group: 3
+    color: '#A3FFC2'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Sm:
+    formula: Sm
+    number: 62
+    period: 6
+    group: 3
+    color: '#8FFFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Sm_3:
+    formula: Sm_3
+    number: 62
+    period: 6
+    group: 3
+    color: '#8FFFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Sm_h:
+    formula: Sm_h
+    number: 62
+    period: 6
+    group: 3
+    color: '#8FFFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Eu:
+    formula: Eu
+    number: 63
+    period: 6
+    group: 3
+    color: '#61FFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Eu_2:
+    formula: Eu_2
+    number: 63
+    period: 6
+    group: 3
+    color: '#61FFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Eu_3:
+    formula: Eu_3
+    number: 63
+    period: 6
+    group: 3
+    color: '#61FFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Eu_h:
+    formula: Eu_h
+    number: 63
+    period: 6
+    group: 3
+    color: '#61FFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Gd:
+    formula: Gd
+    number: 64
+    period: 6
+    group: 3
+    color: '#45FFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Gd_3:
+    formula: Gd_3
+    number: 64
+    period: 6
+    group: 3
+    color: '#45FFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Gd_h:
+    formula: Gd_h
+    number: 64
+    period: 6
+    group: 3
+    color: '#45FFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Tb:
+    formula: Tb
+    number: 65
+    period: 6
+    group: 3
+    color: '#30FFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Tb_3:
+    formula: Tb_3
+    number: 65
+    period: 6
+    group: 3
+    color: '#30FFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Tb_h:
+    formula: Tb_h
+    number: 65
+    period: 6
+    group: 3
+    color: '#30FFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Dy:
+    formula: Dy
+    number: 66
+    period: 6
+    group: 3
+    color: '#1FFFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Dy_3:
+    formula: Dy_3
+    number: 66
+    period: 6
+    group: 3
+    color: '#1FFFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Dy_h:
+    formula: Dy_h
+    number: 66
+    period: 6
+    group: 3
+    color: '#1FFFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Ho:
+    formula: Ho
+    number: 67
+    period: 6
+    group: 3
+    color: '#00FFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Ho_3:
+    formula: Ho_3
+    number: 67
+    period: 6
+    group: 3
+    color: '#00FFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Ho_h:
+    formula: Ho_h
+    number: 67
+    period: 6
+    group: 3
+    color: '#00FFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Er:
+    formula: Er
+    number: 68
+    period: 6
+    group: 3
+    color: '#00E0C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Er_2:
+    formula: Er_2
+    number: 68
+    period: 6
+    group: 3
+    color: '#00E0C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Er_3:
+    formula: Er_3
+    number: 68
+    period: 6
+    group: 3
+    color: '#00E0C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Er_h:
+    formula: Er_h
+    number: 68
+    period: 6
+    group: 3
+    color: '#00E0C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Tm:
+    formula: Tm
+    number: 69
+    period: 6
+    group: 3
+    color: '#00C7C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Tm_3:
+    formula: Tm_3
+    number: 69
+    period: 6
+    group: 3
+    color: '#00C7C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Tm_h:
+    formula: Tm_h
+    number: 69
+    period: 6
+    group: 3
+    color: '#00C7C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Yb:
+    formula: Yb
+    number: 70
+    period: 6
+    group: 3
+    color: '#00AFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Yb_2:
+    formula: Yb_2
+    number: 70
+    period: 6
+    group: 3
+    color: '#00AFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Yb_3:
+    formula: Yb_3
+    number: 70
+    period: 6
+    group: 3
+    color: '#00AFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Yb_h:
+    formula: Yb_h
+    number: 70
+    period: 6
+    group: 3
+    color: '#00AFC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Lu:
+    formula: Lu
+    number: 71
+    period: 6
+    group: 3
+    color: '#0096C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Lu_3:
+    formula: Lu_3
+    number: 71
+    period: 6
+    group: 3
+    color: '#0096C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Hf:
+    formula: Hf
+    number: 72
+    period: 6
+    group: 4
+    color: '#007DC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Hf_pv:
+    formula: Hf_pv
+    number: 72
+    period: 6
+    group: 4
+    color: '#007DC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Hf_sv:
+    formula: Hf_sv
+    number: 72
+    period: 6
+    group: 4
+    color: '#007DC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Ta:
+    formula: Ta
+    number: 73
+    period: 6
+    group: 5
+    color: '#0064C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Ta_pv:
+    formula: Ta_pv
+    number: 73
+    period: 6
+    group: 5
+    color: '#0064C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element W:
+    formula: W
+    number: 74
+    period: 6
+    group: 6
+    color: '#004BC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element W_sv:
+    formula: W_sv
+    number: 74
+    period: 6
+    group: 6
+    color: '#004BC7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Re:
+    formula: Re
+    number: 75
+    period: 6
+    group: 7
+    color: '#0032C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Re_pv:
+    formula: Re_pv
+    number: 75
+    period: 6
+    group: 7
+    color: '#0032C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Os:
+    formula: Os
+    number: 76
+    period: 6
+    group: 8
+    color: '#0019C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Os_pv:
+    formula: Os_pv
+    number: 76
+    period: 6
+    group: 8
+    color: '#0019C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Ir:
+    formula: Ir
+    number: 77
+    period: 6
+    group: 9
+    color: '#0000C7'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Pt:
+    formula: Pt
+    number: 78
+    period: 6
+    group: 10
+    color: '#D0D0FF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Pt_pv:
+    formula: Pt_pv
+    number: 78
+    period: 6
+    group: 10
+    color: '#D0D0FF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Au:
+    formula: Au
+    number: 79
+    period: 6
+    group: 11
+    color: '#FFD700'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Hg:
+    formula: Hg
+    number: 80
+    period: 6
+    group: 12
+    color: '#B8B8D0'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Tl:
+    formula: Tl
+    number: 81
+    period: 6
+    group: 13
+    color: '#A6544D'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Tl_d:
+    formula: Tl_d
+    number: 81
+    period: 6
+    group: 13
+    color: '#A6544D'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Pb:
+    formula: Pb
+    number: 82
+    period: 6
+    group: 14
+    color: '#575961'
+    _default_bonds:
+        Element H: 1.48
+        Element C: 1.88
+        Element N: 1.85
+        Element O: 1.81
+        Element F: 1.72
+        Element P: 2.19
+        Element S: 2.13
+        Element Cl: 2.09
+        Element Se: 2.29
+        Element Br: 2.25
+        Element Te: 2.52
+        Element I: 2.47
+
+
+
+
+
+Element Pb_d:
+    formula: Pb_d
+    number: 82
+    period: 6
+    group: 14
+    color: '#575961'
+    _default_bonds:
+        Element H: 1.48
+        Element C: 1.88
+        Element N: 1.85
+        Element O: 1.81
+        Element F: 1.72
+        Element P: 2.19
+        Element S: 2.13
+        Element Cl: 2.09
+        Element Se: 2.29
+        Element Br: 2.25
+        Element Te: 2.52
+        Element I: 2.47
+
+
+
+
+
+Element Bi:
+    formula: Bi
+    number: 83
+    period: 6
+    group: 15
+    color: '#9E4FB5'
+    _default_bonds:
+        Element H: 1.42
+        Element C: 1.87
+        Element N: 1.80
+        Element O: 1.77
+        Element F: 1.75
+        Element P: 2.20
+        Element S: 2.13
+        Element Cl: 2.09
+        Element Se: 2.29
+        Element Br: 2.25
+        Element Te: 2.52
+        Element I: 2.47
+
+
+
+
+
+Element Bi_d:
+    formula: Bi_d
+    number: 83
+    period: 6
+    group: 15
+    color: '#9E4FB5'
+    _default_bonds:
+        Element H: 1.42
+        Element C: 1.87
+        Element N: 1.80
+        Element O: 1.77
+        Element F: 1.75
+        Element P: 2.20
+        Element S: 2.13
+        Element Cl: 2.09
+        Element Se: 2.29
+        Element Br: 2.25
+        Element Te: 2.52
+        Element I: 2.47
+
+
+
+
+
+Element Po:
+    formula: Po
+    number: 84
+    period: 6
+    group: 16
+    color: '#AB5C00'
+    _default_bonds:
+        Element H: 1.36
+        Element C: 1.81
+        Element N: 1.74
+        Element O: 1.71
+        Element F: 1.69
+        Element P: 2.13
+        Element S: 2.07
+        Element Cl: 2.03
+        Element Se: 2.23
+        Element Br: 2.19
+        Element Te: 2.46
+        Element I: 2.41
+
+
+
+
+
+Element Po_d:
+    formula: Po_d
+    number: 84
+    period: 6
+    group: 16
+    color: '#AB5C00'
+    _default_bonds:
+        Element H: 1.36
+        Element C: 1.81
+        Element N: 1.74
+        Element O: 1.71
+        Element F: 1.69
+        Element P: 2.13
+        Element S: 2.07
+        Element Cl: 2.03
+        Element Se: 2.23
+        Element Br: 2.19
+        Element Te: 2.46
+        Element I: 2.41
+
+
+
+
+
+Element At:
+    formula: At
+    number: 85
+    period: 6
+    group: 17
+    color: '#75445B'
+    _default_bonds:
+        Element H: 1.27
+        Element C: 1.77
+        Element N: 1.70
+        Element O: 1.67
+        Element F: 1.65
+        Element P: 2.09
+        Element S: 2.03
+        Element Cl: 1.99
+        Element Se: 2.19
+        Element Br: 2.15
+        Element Te: 2.42
+        Element I: 2.37
+
+
+
+
+
+Element Rn:
+    formula: Rn
+    number: 86
+    period: 6
+    group: 18
+    color: '#428296'
+    _default_bonds:
+        Element H: 0.74
+        Element C: 1.09
+        Element N: 1.01
+        Element O: 0.96
+        Element F: 0.92
+        Element P: 1.42
+        Element S: 1.36
+        Element Cl: 1.27
+        Element Se: 1.47
+        Element Br: 1.41
+        Element Te: 1.70
+        Element I: 1.65
+
+
+
+
+
+Element Fr_sv:
+    formula: Fr_sv
+    number: 87
+    period: 7
+    group: 1
+    color: '#420066'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Ra_sv:
+    formula: Ra_sv
+    number: 88
+    period: 7
+    group: 2
+    color: '#007D00'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Ac:
+    formula: Ac
+    number: 89
+    period: 7
+    group: 3
+    color: '#70ABFA'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Th:
+    formula: Th
+    number: 90
+    period: 7
+    group: 3
+    color: '#00BAFF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Th_s:
+    formula: Th_s
+    number: 90
+    period: 7
+    group: 3
+    color: '#00BAFF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Pa:
+    formula: Pa
+    number: 91
+    period: 7
+    group: 3
+    color: '#00A3FF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Pa_s:
+    formula: Pa_s
+    number: 91
+    period: 7
+    group: 3
+    color: '#00A3FF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element U:
+    formula: U
+    number: 92
+    period: 7
+    group: 3
+    color: '#008FFF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element U_s:
+    formula: U_s
+    number: 92
+    period: 7
+    group: 3
+    color: '#008FFF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Np:
+    formula: Np
+    number: 93
+    period: 7
+    group: 3
+    color: '#007BFF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Np_s:
+    formula: Np_s
+    number: 93
+    period: 7
+    group: 3
+    color: '#007BFF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Pu:
+    formula: Pu
+    number: 94
+    period: 7
+    group: 3
+    color: '#0067FF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Pu_s:
+    formula: Pu_s
+    number: 94
+    period: 7
+    group: 3
+    color: '#0067FF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Am:
+    formula: Am
+    number: 95
+    period: 7
+    group: 3
+    color: '#0053FF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Cm:
+    formula: Cm
+    number: 96
+    period: 7
+    group: 3
+    color: '#003FFF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
+Element Cf:
+    formula: Cf
+    number: 98
+    period: 7
+    group: 3
+    color: '#002BFF'
+    _default_bonds:
+        Element H: 1.70
+        Element C: 2.15
+        Element N: 2.10
+        Element O: 2.05
+        Element F: 1.96
+        Element P: 2.46
+        Element S: 2.44
+        Element Cl: 2.41
+        Element Se: 2.56
+        Element Br: 2.53
+        Element Te: 2.77
+        Element I: 2.72
+
+
+
+
+
